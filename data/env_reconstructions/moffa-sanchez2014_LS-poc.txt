@@ -1,0 +1,202 @@
+# Eastern Labrador Sea Stable Isotope, Trace Metal and SST Data over the last 1250 Years
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/19802
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/moffa-sanchez2014-poc/moffa-sanchez2014-poc.txt
+#
+# Archive: Paleoceanography
+#
+# Parameter_Keywords: oxygen isotopes, trace metal in carbonates, population abundance, reconstructions
+#---------------------------------------
+# Contribution_Date
+#    Date: 2016-02-23
+#---------------------------------------
+# Title
+#    Study_Name: Eastern Labrador Sea Stable Isotope, Trace Metal and SST Data over the last 1250 Years
+#---------------------------------------
+# Investigators
+#      Investigators: Moffa-Sánchez, P.; Hall, I.R.; Barker, S.; Thornalley, D.J.R.; Yashayaev, I.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: 
+#         Provided Keywords: Last millennium, Labrador Sea
+#---------------------------------------
+# Publication
+# Authors: Moffa-Sánchez, P., I.R. Hall, S. Barker, D.J.R. Thornalley, and I. Yashayaev
+# Published_Date_or_Year: 2014
+# Published_Title: Surface changes in the eastern Labrador Sea around the onset of the Little Ice Age
+# Journal_Name: Paleoceanography
+# Volume: 29
+# Issue: 
+# Pages: 160-175
+# Report Number: 
+# DOI: 10.1002/2013PA002523
+# Online_Resource: http://onlinelibrary.wiley.com/doi/10.1002/2013PA002523/abstract
+# Full_Citation: 
+# Abstract: Despite the relative climate stability of the present interglacial, it has been punctuated by several centennial-scale climatic oscillations; the latest of which are often colloquially referred to as the Medieval Climatic Anomaly (MCA) and the Little Ice Age (LIA). The most favored explanation for the cause of these anomalies is that they were triggered by variability in solar irradiance and/or volcanic activity and amplified by ocean-atmosphere-sea ice feedbacks. As such, changes in the strength of the Atlantic Meridional Overturning Circulation (AMOC) are widely believed to have been involved in the amplification of such climatic oscillations. The Labrador Sea is a key area of deep water formation. The waters produced here contribute approximately one third of the volume transport of the deep limb of the AMOC and drive changes in the North Atlantic surface hydrography and subpolar gyre circulation. In this study, we present multiproxy reconstructions from a high-resolution marine sediment core located south of Greenland that suggest an increase in the influence of polar waters reaching the Labrador Sea close to MCA-LIA transition. Changes in freshwater forcing may have reduced the formation of Labrador Sea Water and contributed toward the onset of the LIA cooling. 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: UK National Environmental Research Council (NERC)
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Climate Change Consortium of Wales
+#    Grant: 
+#---------------------------------------
+# Site Information
+# Site_Name: RAPiD-35-25B
+# Location: North Atlantic Ocean
+# Country: 
+# Northernmost_Latitude: 57.504167
+# Southernmost_Latitude: 57.504167
+# Easternmost_Longitude: -48.722333
+# Westernmost_Longitude: -48.722333
+# Elevation: -3484
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: RAPiD-35-25B POC Moffa2014
+#   First_Year: 764
+#   Last_Year: 1915
+#   Time_Unit: Years AD
+#   Core_Length: 0.44
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+#   Chronology: 
+# 
+# Labcode	sample identification used by 14C laboratory 	
+# depth	Depth of sample interval (cm)	
+# mat.dated	Material Dated	
+# 14C.raw±14C.raw_err	conventional radiocarbon age, years before 1950AD±standard error	
+# datemeth	Dating method	
+# reservoir	Reservoir correction	
+# CalAge	Calibrated age (years AD)	
+# 95% confidence age interval	Calibrated age, 95% confidence bound  (years AD) 	
+# calib_method            	Method used to calibrate	
+# notes	notes	
+# 
+# Labcode	depth	mat.dated	14C.raw±14C.raw_err	datemeth	reservoir	CalAge	95% confidence age interval	calib_method            	notes	
+# OS-82608   	0.25	N.pachyderma (s)	285±30	14C AMS	Marine09	1914	1942-1877	Bchron	NaN  
+# SUERC-35759	6.25	N.pachyderma (s)	720±37	14C AMS	Marine09	1585	1663-1499	Bchron	excluded	
+# OS-86418   	16.75	N.pachyderma (s)	895±25	14C AMS	Marine09	1444	1483-1399	Bchron	NaN  
+# SUERC-35760	22.75	N.pachyderma (s)	1145±35	14C AMS	Marine09	1258	1309-1179	Bchron	NaN  
+# OS-86417   	28.75	N.pachyderma (s)	1270±25	14C AMS	Marine09	1134	1214-1059	Bchron	NaN  
+# SUERC-35761	36.25	N.pachyderma (s)	1437±37	14C AMS	Marine09	968	1040-867	Bchron	NaN  
+# OS-82607   	43.5	N.pachyderma (s)	1610±35	14C AMS	Marine09	774	881-696	Bchron	NaN  
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## depth_mm	depth,,,mm ,,,,,N
+## age_AD	age,,,years AD,,,,,N
+## d18On.pachy-l	delta 18O,Neogloboquadrina pachyderma left coiling,,per mil PDB,,paleoceanography,,analytical technique: isotope ratio mass spectrometry,N
+## Mg/Ca-n.pachy-l	Magnesium/Calcium,Neogloboquadrina pachyderma left coiling,,mmol/mol,,paleoceanography,,analytical technique: inductively coupled plasma mass spectrometry,N
+## sst-Mg/Ca-n.pachy-l	temperature,sea surface,,degrees Celsius,,climate reconstruction,,using Elderfield and Ganssen(2000),N
+## d18Osw-n.pachy-l	delta 18O seawater,,,per mil SMOW,,climate reconstruction,,using N.pachyderma left coiling,N
+## sal-n.pachy-l	salinity,,,psu,,climate reconstruction,,using Neogloboquadrina pachyderma left coiling and LeGrande and Schmidt(2006),N
+## d18Ot.quin	delta 18O,Turborotalita quinqueloba,,per mil PDB,,paleoceanography,,analytical technique: isotope ratio mass spectrometry,N
+## n.pachy-l%	Neogloboquadrina pachyderma (left coiling),,,percent,,paleoceanography,,counting,N
+#------------------------
+# Data
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Value: -999
+depth_mm	age_AD	d18On.pachy-l	Mg/Ca-n.pachy-l	sst-Mg/Ca-n.pachy-l	d18Osw-n.pachy-l	sal-n.pachy-l	d18Ot.quin	n.pachy-l%	
+0.25	1914.65	2.53	0.91	5.96	0.35047819	34.89413	1.835504	-999	
+0.75	1897.45	2.62	0.90	5.87	0.40967917	34.95711	1.763441	70.41229	
+1.25	1883.32	2.71	0.87	5.57	0.42734623	34.9759	1.836459	73.97629	
+1.75	1869.13	2.72	0.85	5.36	0.38734506	34.93335	1.767517	90.9497	
+2.25	1855.27	2.61	0.92	6.06	0.45585442	35.00623	1.988177	82.65583	
+2.75	1841.08	2.58	0.98	6.76	0.60188338	35.16158	1.767163	84.89446	
+3.25	1826.98	2.51	0.86	5.38	0.17897835	34.71168	1.485176	76.6742	
+3.75	1812.92	2.57	0.89	5.73	0.32463212	34.86663	1.847135	82.15646	
+4.25	1798.92	2.57	0.88	5.69	0.31665391	34.85814	1.555547	78.98258	
+4.75	1785.29	2.60	0.88	5.60	0.32032223	34.86204	1.750681	84.27257	
+5.25	1771.36	2.57	0.88	5.64	0.30890653	34.8499	1.683083	73.74172	
+5.75	1757.23	2.57	0.86	5.39	0.23525275	34.77155	1.855086	78.27098	
+6.25	1743.38	2.52	0.85	5.32	0.17533974	34.70781	1.710802	94.37853	
+6.75	1729.32	2.48	0.84	5.18	0.09143801	34.61855	1.729912	80.35761	
+7.25	1715.26	2.52	0.84	5.16	0.1334278	34.66322	-999	95.59055	
+7.75	1701.13	2.50	0.88	5.66	0.24356536	34.78039	1.569164	79.73692	
+8.25	1687.32	2.47	0.83	5.11	0.06461546	34.59002	1.741503	84.43133	
+8.75	1673.30	2.61	0.85	5.30	0.25824745	34.79601	1.446979	87.94739	
+9.25	1659.17	2.60	0.82	5.00	0.17161652	34.70385	1.975945	93.10241	
+9.75	1645.07	2.60	0.85	5.30	0.24806255	34.78517	1.686394	78.54427	
+10.25	1631.02	2.53	0.85	5.31	0.17646743	34.70901	1.76238	84.80758	
+10.75	1617.31	2.52	0.89	5.73	0.28132356	34.82056	1.615674	90.32663	
+11.25	1603.21	2.61	0.80	4.76	0.11901742	34.64789	-999	93.69111	
+11.75	1589.36	2.58	0.94	6.36	0.50031544	35.05353	1.674448	83.27586	
+12.25	1575.41	2.55	0.82	4.92	0.09769442	34.62521	1.699166	77.5464	
+12.75	1561.50	2.46	0.85	5.33	0.11363353	34.64216	1.628052	93.28302	
+13.25	1547.70	2.52	0.77	4.34	-0.0800249	34.43614	1.66865	95.59381	
+13.75	1533.79	2.35	0.88	5.63	0.08017728	34.60657	1.589065	95.64086	
+14.25	1519.87	2.61	0.87	5.51	0.31025061	34.85133	1.878609	91.22454	
+14.75	1505.83	2.54	0.93	6.18	0.40991577	34.95736	1.634658	92.704	
+15.25	1492.20	2.50	0.83	5.04	0.07786316	34.60411	1.604444	90.02574	
+15.75	1478.11	2.53	0.81	4.79	0.04954423	34.57398	1.785228	84.70276	
+16.25	1463.75	2.56	0.83	5.02	0.13516873	34.66507	1.781845	88.22162	
+16.75	1444.26	2.56	0.86	5.39	0.22958223	34.76551	1.6494	78.33817	
+17.25	1425.39	2.58	0.84	5.23	0.20902471	34.74364	1.744065	81.90955	
+17.75	1410.51	2.66	0.79	4.62	0.13267262	34.66242	1.637634	85.52964	
+18.25	1395.49	2.60	0.86	5.39	0.27264094	34.81132	1.566145	78.63613	
+18.75	1380.54	2.46	0.83	5.07	0.04364731	34.56771	1.571026	61.61103	
+19.25	1365.66	2.59	0.80	4.74	0.0892233	34.6162	1.481359	56.3357	
+19.75	1350.80	2.51	0.86	5.39	0.18153439	34.7144	1.473538	57.65132	
+20.25	1336.08	2.60	0.85	5.34	0.25446524	34.79198	1.582714	65.63252	
+20.75	1321.44	2.52	0.84	5.18	0.1353171	34.66523	1.59497	68.71898	
+21.25	1307.06	2.43	0.86	5.39	0.10384795	34.63175	1.616959	85.92498	
+21.75	1292.59	2.55	0.88	5.64	0.28131086	34.82054	1.633344	85.79297	
+22.25	1276.00	2.57	0.82	4.90	0.11326314	34.64177	1.593545	82.78112	
+22.75	1259.42	2.51	0.80	4.71	0.00288088	34.52434	1.659785	87.86176	
+23.25	1246.19	2.46	0.82	4.93	0.00910871	34.53097	1.74619	92.41693	
+23.75	1235.50	2.62	0.86	5.40	0.29327467	34.83327	1.586332	81.32952	
+24.25	1225.60	2.60	0.84	5.16	0.21327728	34.74817	1.653342	84.42463	
+24.75	1215.96	2.56	0.91	5.98	0.37926239	34.92475	1.618011	94.62711	
+25.25	1206.36	2.66	0.78	4.43	0.08010749	34.6065	1.563211	84.44444	
+25.75	1196.96	2.58	0.86	5.37	0.24656665	34.78358	1.603413	76.80825	
+26.25	1187.46	2.57	0.84	5.19	0.18449304	34.71755	1.684519	79.1694	
+26.75	1178.26	2.53	0.82	4.98	0.08934459	34.61632	1.603184	72.5411	
+27.25	1168.85	2.52	0.86	5.39	0.19456514	34.72826	1.526037	84.02673	
+27.75	1159.18	2.51	0.83	5.01	0.07861619	34.60491	1.572798	81.67675	
+28.25	1148.53	2.58	0.85	5.33	0.23020419	34.76617	1.601819	51.18097	
+28.75	1133.75	2.56	0.83	5.09	0.1570213	34.68832	1.595037	54.92524	
+29.25	1117.44	2.58	0.85	5.25	0.20993635	34.74461	1.66171	92.57681	
+29.75	1105.04	2.60	0.85	5.33	0.25113018	34.78844	1.636884	91.95296	
+30.25	1093.82	2.63	0.84	5.13	0.2349866	34.77126	1.817383	-999	
+30.75	1083.17	2.54	0.88	5.61	0.26381529	34.80193	2.002811	-999	
+31.25	1072.84	2.58	0.82	4.92	0.13186621	34.66156	1.747567	-999	
+31.75	1062.14	2.40	0.81	4.88	-0.0637996	34.4534	1.719099	54.76326	
+32.25	1051.84	2.71	0.77	4.30	0.09070396	34.61777	1.647711	-999	
+32.75	1041.63	2.59	0.77	4.30	-0.0268382	34.49273	1.89645	-999	
+33.25	1031.51	2.62	0.83	5.01	0.18910622	34.72245	1.736277	-999	
+33.75	1021.19	2.48	0.81	4.81	0.00337021	34.52486	1.69998	60.66351	
+34.25	1011.18	2.59	0.79	4.62	0.0657414	34.59121	1.58431	-999	
+34.75	1000.90	2.50	0.76	4.23	-0.1324906	34.38033	1.496254	-999	
+35.25	989.94	2.53	0.86	5.46	0.21896565	34.75422	1.546733	-999	
+35.75	978.00	2.50	0.86	5.37	0.16251886	34.69417	1.620051	71.48564	
+36.25	961.38	2.62	0.93	6.21	0.49723831	35.05025	1.451531	-999	
+36.75	943.09	2.56	0.83	5.04	0.13387226	34.66369	1.59131	-999	
+37.25	929.53	2.34	0.83	5.05	-0.0759872	34.44044	1.805799	-999	
+37.75	917.45	2.48	0.79	4.62	-0.0483184	34.46987	1.593179	78.30333	
+38.25	905.75	2.60	0.83	5.01	0.17199262	34.70425	1.600749	-999	
+38.75	894.23	2.47	0.85	5.32	0.12193897	34.651	1.561248	-999	
+39.25	882.88	2.54	0.83	5.06	0.12121709	34.65023	1.726902	-999	
+39.75	871.44	2.55	0.84	5.18	0.16369404	34.69542	1.588082	61.25741	
+40.25	859.27	2.33	0.84	5.15	-0.0589552	34.45856	1.57028	-999	
+40.75	847.21	2.52	0.85	5.29	0.16424555	34.69601	1.605043	-999	
+41.25	835.42	2.59	0.84	5.13	0.195903	34.72968	1.591783	-999	
+41.75	823.14	2.62	0.84	5.17	0.23818491	34.77466	1.641355	87.13273	
+42.25	810.63	2.59	0.88	5.69	0.33768346	34.88051	1.728749	-999	
+42.75	797.69	2.44	0.86	5.39	0.11444648	34.64303	1.61341	-999	
+43.25	783.45	2.52	0.85	5.32	0.1760593	34.70857	1.630737	-999	
+43.75	763.36	2.36	0.86	5.32	0.00927771	34.53115	1.771406	75.21431	

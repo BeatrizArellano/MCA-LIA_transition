@@ -1,0 +1,345 @@
+# Norwegian Sea Diatom SST Reconstruction for the last 2,000 Years
+#----------------------------------------------------------------------- 
+#               World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite original publication, online resource and date accessed when using these data, 
+# If there is no publication information, please cite investigator, title, online resource and date accessed.
+#
+#
+# Online_Resource:  http://www.ncdc.noaa.gov/paleo/study/17475
+# Online_Resource:  http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/berner2011/berner2011.txt
+#
+# Original_Source_URL: http://onlinelibrary.wiley.com/doi/10.1029/2010PA002002/abstract    
+#
+# Archive:  Climate Reconstruction
+#--------------------
+# Contribution_Date
+#	Date: 2014-11-26
+#--------------------
+# Title
+#	Study_Name: Norwegian Sea Diatom SST Reconstruction for the last 2,000 Years
+#--------------------
+# Investigators
+#	Investigators: Berner, K.S.; Koç, N.; Godtliebsen, F.; Divine, D.
+#--------------------
+# Description_and_Notes
+#    Description: A 2000-year-long diatom inferred August sea surface temperature reconstruction, with 2-13 year resolution, from marine sediment core CR 948/2011 from the Vøring Plateau, Norwegian Sea. The composite core CR 948/2011 consists of the calypso core MD95-2011 and the boxcore JM97-948/2A. A modern training set consisting of 139 surface samples with 52 diatom species from the Nordic Seas and the North Atlantic was utilized to convert downcore diatom counts to quantitative August SST using the weighted averaging partial least squares (WA-PLS) transfer function method.
+#
+#--------------------
+# Publication
+#    Authors: Berner, K.S., N. Koç, F. Godtliebsen, and D. Divine
+#    Published_Date_or_Year: 2011
+#	Published_Title: Holocene climate variability of the Norwegian Atlantic Current during high and low solar insolation forcing
+#	Journal_Name: Paleoceanography
+#	Volume: 26
+#	Issue:
+#   Report_Number: PA2220
+#	Pages: 
+#	DOI: 10.1029/2010PA002002
+#	Abstract: A high-resolution sediment core from the Vøring Plateau has been studied to document the centennial to millennial variability of the surface water conditions during the Holocene Climate Optimum (HCO) and the late Holocene period (LHP) in order to evaluate the effects of solar insolation on surface ocean climatology. Quantitative August summer sea surface temperatures (SSSTs) with a time resolution of 2–40 years are reconstructed by using three different diatom transfer function methods. Spectral- and scale-space methods are applied to the records to explore the variability present in the time series at different time scales. The SSST development in core MD95-2011 shows a delayed response to Northern Hemisphere maximum summer insolation at ca. 11,000 years B.P. The record shows the maximum SSST of the HCO to be from 7.3 to 8.9 kyr B.P., which implies that the site was located in the regional warm water pool removed from the oceanic fronts and Arctic waters. Superimposed on the general cooling trendare higher-frequency variabilities at time scales of 80–120, 210–320, 320–640, and 640–1280 years. The climate variations at the time scale of 320–640 years are documented both for periods of high and low solar orbital insolation. We found evidence that the submillennial-scale mode of variability (640–900 years) in SSST evident during the LHP is directly associated with varying solar forcing. At the shorter scale of 260–450 years, the SSST during the LHP displays a lagged response to solar forcing with a phase-locked behavior indicating the existence of a feedback mechanism in the climate system triggered by variations in the solar constant as well as the role of the thermal inertia of the ocean. The abruptness of the cooling events in the LHP, especially pronounced during the onsets of the Holocene Cold Period I (approximately 2300 years B.P.) and the Little Ice Age (approximately 550 years B.P.), can be explained by a shutdown of deep convection in the Nordic Seas in response to negative solar insolation anomalies. These cooling events are on the order of 1.5°C.
+#--------------------
+# Publication
+#    Authors: Miettinen A., D. Divine, N. Koç, F. Godtliebsen, and I.R. Hall
+#    Published_Date_or_Year: 2012
+#	Published_Title: Multicentennial variability of the sea surface temperature gradient across the Subpolar North Atlantic over the last 2.8 kyr
+#	Journal_Name: Journal of Climate
+#	Volume: 25
+#	Issue:
+#   Report_Number: 
+#	Pages: 4205-4219 
+#	DOI: 10.1175/JCLI-D-11-00581.1
+#	Abstract:
+#
+#---------------------
+# Funding_Agency 
+# 	Funding_Agency_Name: The Research Council of Norway
+#      	Grant: 
+#---------------------
+# Funding_Agency 
+# 	Funding_Agency_Name:  European Commission
+#      	Grant: the PACLIVA project
+#---------------------
+# Funding_Agency 
+# 	Funding_Agency_Name: NORPAST-II project
+#      	Grant: 
+#---------------------
+# Funding_Agency 
+# 	Funding_Agency_Name: Norwegian Polar Institute
+#      	Grant: 
+#---------------------
+# Site_Information 
+#   Site_Name: Vøring Plateau
+#	Location: Norwegian Sea
+#	Country: 
+#	Northernmost_Latitude: 66.969667
+# 	Southernmost_Latitude: 66.969667
+# 	Easternmost_Longitude: 7.639333
+# 	Westernmost_Longitude: 7.639333
+# 	Elevation: 
+#------------------   
+# Data_Collection  
+#	Collection_Name: CR 948/2011 SST Berner11
+#	Earliest_Year: 4
+#	Most_Recent_Year: 1995
+#	Time_Unit: AD
+#	Core_Length: 
+#	Notes: The composite core CR 948/2011 consists of the calypso core MD95-2011 (1048m depth and 17.49m long) and the boxcore JM97-948/2A (1020m depth and 31cm long).
+#------------------
+# Chronology:
+#	Column 1: Core name					
+#	Column 2: Central depth, cm 					
+#	Column 3: Laboratory number 					
+#	Column 4: Material/measurement					
+#	Column 5: 14C age BP ± standard deviation 					
+#	Column 6: Calibrated age, cal years BP 					
+#						
+# Core 	        Depth	Lab no  	Material		14C age		Cal age
+# JM97-948/2A	0.25	RNL	        210Pb		 			-45
+# JM97-948/2A	0.75	RNL	        210Pb					-41
+# JM97-948/2A	1.25	RNL	        210Pb					-35
+# JM97-948/2A	1.5	RNL	        210Pb					-30
+# JM97-948/2A	2.75	RNL	        210Pb					-20
+# JM97-948/2A	3.75	RNL	        210Pb					-10
+# JM97-948/2A	4.5	RNL	        210Pb					-1
+# JM97-948/2A	7.5	RNL	        210Pb					18
+# JM97-948/2A	10.25	RNL	        210Pb					29
+# JM97-948/2A	21.75	KIA 6285	N. pachyderma (d)	735 ± 40	369.5
+# JM97-948/2A	30.75	KIA 4800	N. pachyderma (d)	940 ± 40	537.4
+# MD95-2011	5.0	Poz-8245	N. pachyderma (d)	1020 ± 100	544.7
+# MD95-2011	10.5	GifA96471	N. pachyderma (d)	980 ± 60	566.9
+# MD95-2011	24.5	KIA5600	        N. pachyderma (d)	1590 ± 40	637.2
+# MD95-2011	30.5	KIA3925        	N. pachyderma (d)	1040 ± 40	672.8
+# MD95-2011	47.5	KIA5601	        N. pachyderma (d)	1160 ± 30	797
+# MD95-2011	55.5	Poz-8244	N. pachyderma (d)	1530 ± 90	868
+# MD95-2011	70.5	KIA3926	        N. pachyderma (d)	1560 ± 50	1018.9
+# MD95-2011	89.5	KIA6286	        N. pachyderma (d)	1590 ± 30	1239.4
+# MD95-2011	101.5	Poz-8246	N. pachyderma (d)	1790 ± 60	1391.9
+# MD95-2011	120.5	Poz-10158	N. pachyderma (d)	2210 ± 60	1638.4
+# MD95-2011	130.5	KIA3927	        N. pachyderma (d)	2350 ± 40	1761.7
+# MD95-2011	154	KIA6287	        N. pachyderma (d)	2335 ± 25	2034.6
+# MD95-2011	170.5	GifA96472	N. pachyderma (d)	2620 ± 60	2213.5
+#
+#------------------
+# Variables
+# 
+# Data line variables format:  one variable per line, shortname- 9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+# Data line format: tab-delimited text, variable short name as header
+## depth_cm  depth,,,cm,,,,,N
+## age_AD	age,,,Year AD,,,,,N 
+## sst-aug.DTF	sea surface temperature,diatoms,,degrees C,August,paleoceanography,using diatom transfer functions,,N
+#-----------------
+# Data:
+# Missing Value: -999
+depth_cm	age_AD	sst-aug.DTF
+0.25	1995	10.2
+0.75	1991	9.9
+1.25	1985	10.3
+1.75	1980	10.8
+2.25	1975	10.3
+2.75	1970	10.2
+3.25	1965	10.7
+3.75	1960	10.5
+4.25	1955	10.5
+4.75	1951	10.4
+5.25	1946	10.3
+5.75	1943	10.2
+6.25	1939	9.9
+6.75	1936	10.2
+7.25	1934	10.3
+7.75	1932	10.5
+8.25	1930	9.7
+8.75	1929	10.1
+9.25	1927	10.6
+9.75	1925	10.4
+10.25	1921	10.2
+10.75	1915	10.4
+11.25	1908	10.0
+11.75	1899	9.8
+12.25	1889	10.5
+12.75	1878	10.1
+13.25	1865	10.6
+13.75	1852	10.1
+14.25	1837	10.6
+14.75	1822	10.1
+15.25	1805	10.6
+15.75	1789	10.5
+16.25	1771	10.4
+16.75	1754	10.3
+17.25	1736	10.4
+17.75	1718	10.0
+18.25	1699	10.2
+18.75	1681	10.3
+19.25	1663	10.2
+19.75	1646	10.5
+20.25	1629	10.1
+20.75	1612	9.6
+21.25	1596	10.3
+21.75	1581	9.9
+22.25	1566	10.1
+22.75	1552	10.1
+23.25	1539	9.9
+23.75	1527	9.6
+24.25	1516	10.2
+24.75	1505	9.6
+25.25	1495	9.9
+25.75	1485	10.2
+26.25	1476	10.1
+26.75	1467	10.0
+27.25	1458	10.0
+27.75	1450	9.8
+28.25	1442	9.3
+28.75	1435	10.1
+29.25	1427	9.7
+29.75	1420	9.8
+30.25	1413	10.0
+3.5	1414	9.8
+4.5	1410	10.2
+5.5	1405	9.5
+6.5	1401	10.0
+7.5	1397	10.0
+8.5	1392	9.6
+9.5	1388	9.8
+10.5	1383	10.4
+11.5	1379	10.8
+12.5	1374	10.3
+13.5	1369	10.8
+14.5	1364	10.9
+15.5	1360	10.7
+16.5	1355	10.4
+17.5	1350	10.4
+18.5	1345	10.7
+19.5	1340	10.2
+21.5	1329	10.7
+22.5	1324	10.1
+23.5	1318	10.2
+24.5	1313	10.3
+25.5	1307	9.7
+26.5	1301	10.6
+27.5	1295	10.4
+28.5	1290	10.5
+29.5	1283	10.1
+30.5	1277	10.3
+31.5	1271	10.9
+32.5	1264	10.0
+33.5	1258	10.3
+34.5	1251	10.4
+35.5	1244	10.5
+36.5	1237	10.2
+37.5	1230	10.5
+38.5	1223	10.2
+39.5	1216	9.9
+40.5	1209	10.0
+41.5	1201	10.2
+42.5	1193	10.2
+43.5	1186	10.3
+44.5	1178	10.0
+45.5	1170	9.9
+46.5	1161	10.1
+47.5	1153	10.3
+48.5	1145	10.3
+49.5	1136	10.3
+50.5	1127	10.3
+51.5	1118	10.3
+52.5	1109	10.4
+53.5	1100	10.7
+54.5	1091	10.6
+55.5	1082	10.6
+56.5	1073	10.5
+57.5	1063	10.2
+58.5	1054	10.9
+59.5	1044	10.5
+60.5	1034	10.4
+61.5	1024	10.3
+62.5	1014	10.4
+63.5	1004	10.6
+64.5	994	10.9
+65.5	984	10.5
+66.5	973	10.4
+67.5	963	10.1
+68.5	952	10.6
+69.5	942	10.3
+70.5	931	10.5
+71.5	920	10.8
+72.5	909	10.7
+73.5	898	11.2
+74.5	887	11.3
+75.5	876	10.9
+76.5	865	10.7
+77.5	853	11.3
+78.5	842	10.5
+79.5	830	10.7
+80.5	819	10.7
+81.5	807	10.5
+82.5	795	10.7
+83.5	783	10.4
+84.5	771	10.4
+85.5	759	10.6
+86.5	747	10.0
+87.5	735	10.5
+88.5	723	10.0
+89.5	711	10.1
+90.5	698	10.2
+91.5	686	10.9
+92.5	673	10.2
+93.5	661	10.3
+94.5	648	10.6
+95.5	635	10.4
+96.5	623	10.0
+97.5	610	10.5
+98.5	597	10.6
+99.5	584	10.7
+100.5	571	10.8
+101.5	558	10.5
+102.5	545	11.1
+103.5	532	10.4
+104.5	519	10.2
+105.5	506	10.4
+106.5	493	10.7
+107.5	480	10.7
+108.5	467	10.2
+109.5	454	10.5
+110.5	441	10.3
+111.5	428	10.3
+112.5	415	10.5
+113.5	402	10.5
+114.5	389	10.4
+115.5	376	10.6
+116.5	363	10.5
+117.5	350	10.4
+118.5	337	10.4
+119.5	324	10.4
+120.5	312	10.5
+121.5	299	10.2
+122.5	286	10.4
+123.5	274	10.5
+124.5	261	10.7
+125.5	249	9.8
+126.5	237	10.4
+127.5	225	10.3
+128.5	212	10.5
+129.5	200	9.7
+130.5	188	10.5
+131.5	176	10.6
+132.5	164	10.2
+133.5	153	10.4
+134.5	141	10.2
+135.5	129	10.6
+136.5	118	10.5
+137.5	106	10.1
+138.5	95	10.4
+139.5	83	10.6
+140.5	72	10.8
+141.5	61	10.0
+142.5	49	10.4
+143.5	38	10.2
+144.5	27	10.0
+145.5	16	10.6
+146.5	4	10.1
+
+
+
+
+
+

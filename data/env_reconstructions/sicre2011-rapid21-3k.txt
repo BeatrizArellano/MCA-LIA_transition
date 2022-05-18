@@ -1,0 +1,415 @@
+#Subpolar North Atlantic 2000 Year Alkenone SST Reconstructions 
+#----------------------------------------------------------------------- 
+#               World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+#NOTE: Please cite original reference when using these data, 
+#plus the data file URL and date accessed. 
+#
+#NAME OF DATA SET: 
+#Subpolar North Atlantic 2000 Year Alkenone SST Reconstructions 
+#LAST UPDATE: 12/2011 (Original receipt by WDC Paleo) 
+#CONTRIBUTORS: Sicre, M.-A., I.R. Hall, J. Mignot, M. Khodri, U. Ezat, 
+#M.-X. Truong, J. Eiríksson, K.-L. Knudsen, J.-L. Turon, E. Jansen, 
+#and J. Jacob 
+#IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2011-153 
+#
+#
+#WDC PALEO CONTRIBUTION SERIES CITATION: 
+#Sicre, M.-A., et al. 2011. 
+#Subpolar North Atlantic 2000 Year Alkenone SST Reconstructions. 
+#IGBP PAGES/World Data Center for Paleoclimatology 
+#Data Contribution Series # 2011-153. 
+#NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+#
+#
+#ORIGINAL REFERENCE: 
+#Sicre, M.-A., I.R. Hall, J. Mignot, M. Khodri, U. Ezat, 
+#M.-X. Truong, J. Eiríksson, and K.-L. Knudsen. 2011. 
+#Sea surface temperature variability in the subpolar Atlantic 
+#over the last two millennia. 
+#Paleoceanography, 26, PA4218, doi:10.1029/2011PA002169. 
+#
+#ABSTRACT: 
+#A decadal resolution time series of sea surface temperature (SST) 
+#spanning the last two millennia is reconstructed by combining 
+#a proxy record from a new sediment sequence with previously 
+#published data from core MD99-2275, north of Iceland. 
+#The alkenone based SST reconstruction is validated with historic 
+#observational data and compared to a new similar temporal resolution 
+#reconstruction obtained from sediment core RAPiD21-3K, in the subpolar 
+#North Atlantic. The two SST paleorecords show consistent multidecadal 
+#scale coolings throughout the interval and similar expressions during 
+#the contrasted climatic periods 'colloquially known' as the Medieval 
+#Climatic Anomaly (MCA) and Little Ice Age (LIA). In order to further 
+#understand the temporal and spatial SST variations and investigate 
+#the influence of natural forcings on the observed SST changes 
+#during the last millennium, we compare our time series to simulations 
+#using the Institut Pierre-Simon Laplace IPSLCM4-v2 climate model. 
+#This comparison highlights the potential importance of volcanism 
+#as a natural forcing driving coherent abrupt cooling events 
+#captured in the subpolar North Atlantic records. 
+#
+#
+#
+#ADDITIONAL REFERENCES: 
+#Sicre, M.-A., J. Jacob, U. Ezat, S. Rousse, C. Kissel, P. Yiou, 
+#J. Eiríksson,  K.L. Knudsen, E. Jansen, and J.-L. Turon. 2008a. 
+#Decadal variability of sea surface temperatures off North Iceland 
+#over the last 2000 yrs. 
+#Earth and Planetary Science Letters, Vol. 268, pp. 137-142. 
+#doi:10.1016/j.epsl.2008.01.011. 
+#
+#Sicre, M.-A., P. Yiou, J. Eiríksson, U. Ezat, E. Guimbaut, 
+#I. Dahhaoui,  K. L. Knudsen, E. Jansen, and J.-L. Turon. 2008b. 
+#A 4500-year reconstruction of sea surface temperature variability 
+#at decadal time scales off North Iceland. 
+#Quaternary Science Reviews, Vol. 27, pp. 2041-2047. 
+#doi:10.1016/j.quascirev. 2008.08.009. 
+#
+#Knudsen, K.-L., J. Eiríksson, H. Jiang, and I. Jónsdóttir. 2009. 
+#Palaeoceanography and climate changes off north Iceland during 
+#the last millennium: Comparison of foraminifera, diatoms 
+#and ice-rafted debris with instrumental and documentary data, 
+#Journal of Quaternary Science, Vol. 24(5), pp. 457-468, 
+#doi:10.1002/jqs.1292. 
+#
+#Eiríksson, J., K.-L. Knudsen, G. Larsen, J. Olsen, J. Heinemeier, 
+#H. B. Bartels-Jónsdóttir, H. Jiang, L. Ran, and L. A. Símonarson. 2011. 
+#Coupling of palaeoceanographic shifts and changes in marine reservoir 
+#ages off north Iceland through the last millennium. 
+#Palaeogeography, Palaeoclimatology, Palaeoecology, Vol. 302, pp. 95-108. 
+#doi:10.1016/j.palaeo.2010.06.002. 
+#
+#
+#
+#GEOGRAPHIC REGION: Subpolar North Atlantic 
+#PERIOD OF RECORD: 2001 A.D. to 1 A.D. 
+#
+#FUNDING SOURCES: 
+#LEFE program supported by INSU (Institut National des Sciences 
+#de l'Univers), CNRS, EU-PACLIVA project (Pattern of Climate 
+#Variability in the North Atlantic) funded by the European Union 
+#5th Framework Programme (contract EVK2-2002-00143), Millennium 
+#project funded by the European Union 6th Framework Programme 
+#(contract EVK-CT-2006-017008), NERC RAPiD Climate Change Programme 
+#grant NER/T/S/2002/00436, ANR ESCARSEL project, THOR project 
+#funded by the European Community's 7th framework program 
+#(FP7/2007-2013) under grant agreement GA212643 
+#(Thermohaline Overturning - at Risk (THOR), 2008-2012). 
+#
+#
+#
+#DATA FILE URLS: 
+#ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sicre2011/sicre2011.txt 
+#ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sicre2011/sicre2011.xls 
+#
+#
+#
+#DESCRIPTION: 
+#Decadal resolution time series of sea surface temperature (SST) 
+#obtained from alkenone paleothermometry spanning the last two millennia.
+#Data are from North Atlantic cores MD99-2275 and RAPiD 21-3K. 
+#MD99-2275 is located north of Iceland, in the polar front, 
+#and RAPiD 21-3K is located in the subpolar Atlantic, South of Iceland.
+#
+#
+#The current MD99-2275 age model is constructed using eight 
+#geochemically identified tephra layers  [Knudsen et al., 2009, Table 2], 
+#the 137Cs peak of maximum nuclear testing in 1963 A.D., and the top 
+#of undisturbed sediment according to 210Pb measurements. 
+#The top of the spliced cores at site MD99-2275 is assumed 
+#at 2006 ± 1 A.D, and estimation of age model uncertainties 
+#for the record has been published [Eiríksson et al., 2011]. 
+#Temporal resolution ranges from 2 to 4 years. 
+#
+#This reconstruction extends to the present-day the decadal-scale 
+#alkenone based SST reconstruction earlier published by Sicre et al. 
+#[Earth Planet. Sci. Lett., 268, 137-142, doi:10.1016/j.epsl.2008.01.011, 
+#2008a] and Sicre et al. [Quat. Sci. Rev., 27, 2041-2047, 
+#doi:10.1016/j.quascirev. 2008.08.009, 2008b] 
+#and now includes the 20th century. 
+#
+#Overall, this MD99-2275 spliced record combines three sediment sequence 
+#reconstructions with different coring devices (piston, gravity and box) 
+#in a highly variable region thus represents a unique regional 
+#reconstruction benchmark. 
+#
+#MD99-2275:  66°33'N, 17°42'W, 470 m water depth 
+#RAPiD 21-3K: 57°27.09'N, 27°54.53'W, 2630 m water depth 
+#
+#
+#2. Sicre et al. 2011 RAPid 21-3K alkenone SST
+#
+Age(yrAD)    T°C
+1968        11.9
+1959         9.3
+1950        10.2
+1941         9.8
+1932        10.4
+1924         9.7
+1915        10.0
+1906        10.8
+1897         9.8
+1889        10.1
+1880        10.0
+1872        10.3
+1863        10.8
+1855        10.1
+1846        10.8
+1838         9.3
+1813         9.7
+1805        10.8
+1788        10.4
+1780         9.9
+1772         9.4
+1764        10.2
+1748        10.2
+1740        10.7
+1732        10.6
+1724        10.8
+1716        10.2
+1708        10.7
+1700        10.8
+1692        10.6
+1677        10.3
+1661        11.7
+1654         9.8
+1646        11.7
+1638         9.7
+1631         9.7
+1623         9.9
+1616         9.9
+1608         9.8
+1601         9.7
+1593         9.9
+1586         9.5
+1578         9.5
+1571         9.4
+1564         9.7
+1556         9.7
+1549         9.8
+1542        10.1
+1534        10.1
+1527        10.0
+1520         9.7
+1513        10.4
+1506         9.6
+1499        12.9
+1491        10.7
+1484        10.2
+1477         9.6
+1470        10.4
+1463         9.1
+1456        10.9
+1449        13.3
+1442        10.8
+1435        10.4
+1428        10.2
+1421        10.1
+1414         9.1
+1408         9.7
+1401         9.9
+1394        10.6
+1387        10.1
+1380         9.5
+1373        10.3
+1367        10.0
+1360         8.9
+1353         9.7
+1347        10.0
+1340         9.4
+1333         9.8
+1326         9.7
+1320         9.6
+1313        10.2
+1307        10.3
+1300        10.5
+1293        10.0
+1287        10.3
+1280        10.4
+1274        10.1
+1267         9.9
+1261        10.4
+1254        10.1
+1248         9.7
+1241        10.1
+1235        10.4
+1228         9.4
+1222        10.9
+1215        10.4
+1209        10.9
+1202         9.6
+1196        11.2
+1190        11.4
+1183         9.9
+1177        10.4
+1171        10.7
+1164        10.8
+1158        10.7
+1152        10.2
+1145        11.3
+1139        11.1
+1133        11.1
+1126        10.4
+1114        10.4
+1107        10.6
+1101        10.3
+1095        13.2
+1089        10.6
+1082         9.8
+1076        10.6
+1070        10.2
+1064        10.3
+1057        10.3
+1051        10.6
+1045        10.3
+1039         9.5
+1032        11.3
+1026        10.5
+1020        10.3
+1014        10.1
+1008        10.1
+1001         7.7
+995          9.3
+989         11.3
+983         10.0
+977         10.3
+970         10.5
+964         10.4
+958         10.1
+952         10.6
+946         10.7
+939          9.6
+933         10.7
+927         10.4
+921         10.5
+915         10.9
+908         10.6
+902         10.7
+896         10.3
+890         10.5
+883         10.3
+877         10.6
+871         10.2
+865         10.6
+852         10.6
+846         10.4
+840         10.2
+834         10.6
+827         10.9
+821         10.6
+815         10.3
+809         10.3
+802         10.0
+796          9.6
+790         11.1
+777         10.1
+771         10.3
+764         10.2
+758          9.9
+752          9.3
+745         10.2
+739         10.1
+733         10.0
+726          9.3
+720         10.4
+714         10.3
+707         10.2
+701         10.2
+688          9.3
+681         10.3
+675         10.3
+669         10.3
+662         10.8
+656          9.8
+649         10.6
+643         10.6
+636         10.2
+629         10.7
+623         10.4
+616         10.9
+610         10.4
+603         10.3
+596          9.1
+590          9.4
+583         10.5
+577          9.7
+570          9.9
+563          8.7
+556         10.5
+550         11.0
+543         11.5
+536         10.3
+529         10.8
+523          9.6
+516         10.1
+509         10.3
+502         10.3
+495          8.9
+488          9.6
+481         10.0
+474         10.3
+468         10.7
+461         10.2
+454         10.4
+447         10.7
+440         10.8
+432         10.6
+425         10.5
+418         10.4
+411         10.9
+404         10.8
+397         10.5
+390         10.3
+382         10.9
+375         10.1
+368         11.0
+361         11.2
+353         10.8
+346         10.9
+339         10.5
+331         11.0
+324         11.1
+316         11.0
+309         10.5
+301         10.9
+294         11.3
+286         10.7
+279         10.8
+271         10.8
+264         10.1
+256         10.7
+248         10.5
+241         10.7
+233         10.8
+225         10.8
+217         10.4
+209         10.9
+202         10.9
+194         10.4
+178         10.5
+170         10.5
+162         11.5
+154         11.0
+146         10.7
+138         10.8
+130         10.9
+121         10.6
+113         10.2
+105         10.7
+97          10.5
+88          10.5
+80          10.3
+72          11.0
+63          10.7
+55          10.4
+46          10.4
+38          11.4
+29           9.9
+21          10.1
+12          10.4
+4           10.5
+-5          10.7
+

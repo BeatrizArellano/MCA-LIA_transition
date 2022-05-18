@@ -1,0 +1,944 @@
+Subpolar North Atlantic 2000 Year Alkenone SST Reconstructions 
+----------------------------------------------------------------------- 
+               World Data Center for Paleoclimatology, Boulder 
+                                  and 
+                     NOAA Paleoclimatology Program 
+----------------------------------------------------------------------- 
+NOTE: Please cite original reference when using these data, 
+plus the data file URL and date accessed. 
+
+NAME OF DATA SET: 
+Subpolar North Atlantic 2000 Year Alkenone SST Reconstructions 
+LAST UPDATE: 12/2011 (Original receipt by WDC Paleo) 
+CONTRIBUTORS: Sicre, M.-A., I.R. Hall, J. Mignot, M. Khodri, U. Ezat, 
+M.-X. Truong, J. Eiríksson, K.-L. Knudsen, J.-L. Turon, E. Jansen, 
+and J. Jacob 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2011-153 
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Sicre, M.-A., et al. 2011. 
+Subpolar North Atlantic 2000 Year Alkenone SST Reconstructions. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2011-153. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+ORIGINAL REFERENCE: 
+Sicre, M.-A., I.R. Hall, J. Mignot, M. Khodri, U. Ezat, 
+M.-X. Truong, J. Eiríksson, and K.-L. Knudsen. 2011. 
+Sea surface temperature variability in the subpolar Atlantic 
+over the last two millennia. 
+Paleoceanography, 26, PA4218, doi:10.1029/2011PA002169. 
+
+ABSTRACT: 
+A decadal resolution time series of sea surface temperature (SST) 
+spanning the last two millennia is reconstructed by combining 
+a proxy record from a new sediment sequence with previously 
+published data from core MD99-2275, north of Iceland. 
+The alkenone based SST reconstruction is validated with historic 
+observational data and compared to a new similar temporal resolution 
+reconstruction obtained from sediment core RAPiD21-3K, in the subpolar 
+North Atlantic. The two SST paleorecords show consistent multidecadal 
+scale coolings throughout the interval and similar expressions during 
+the contrasted climatic periods 'colloquially known' as the Medieval 
+Climatic Anomaly (MCA) and Little Ice Age (LIA). In order to further 
+understand the temporal and spatial SST variations and investigate 
+the influence of natural forcings on the observed SST changes 
+during the last millennium, we compare our time series to simulations 
+using the Institut Pierre-Simon Laplace IPSLCM4-v2 climate model. 
+This comparison highlights the potential importance of volcanism 
+as a natural forcing driving coherent abrupt cooling events 
+captured in the subpolar North Atlantic records. 
+
+
+
+ADDITIONAL REFERENCES: 
+Sicre, M.-A., J. Jacob, U. Ezat, S. Rousse, C. Kissel, P. Yiou, 
+J. Eiríksson,  K.L. Knudsen, E. Jansen, and J.-L. Turon. 2008a. 
+Decadal variability of sea surface temperatures off North Iceland 
+over the last 2000 yrs. 
+Earth and Planetary Science Letters, Vol. 268, pp. 137-142. 
+doi:10.1016/j.epsl.2008.01.011. 
+
+Sicre, M.-A., P. Yiou, J. Eiríksson, U. Ezat, E. Guimbaut, 
+I. Dahhaoui,  K. L. Knudsen, E. Jansen, and J.-L. Turon. 2008b. 
+A 4500-year reconstruction of sea surface temperature variability 
+at decadal time scales off North Iceland. 
+Quaternary Science Reviews, Vol. 27, pp. 2041-2047. 
+doi:10.1016/j.quascirev. 2008.08.009. 
+
+Knudsen, K.-L., J. Eiríksson, H. Jiang, and I. Jónsdóttir. 2009. 
+Palaeoceanography and climate changes off north Iceland during 
+the last millennium: Comparison of foraminifera, diatoms 
+and ice-rafted debris with instrumental and documentary data, 
+Journal of Quaternary Science, Vol. 24(5), pp. 457-468, 
+doi:10.1002/jqs.1292. 
+
+Eiríksson, J., K.-L. Knudsen, G. Larsen, J. Olsen, J. Heinemeier, 
+H. B. Bartels-Jónsdóttir, H. Jiang, L. Ran, and L. A. Símonarson. 2011. 
+Coupling of palaeoceanographic shifts and changes in marine reservoir 
+ages off north Iceland through the last millennium. 
+Palaeogeography, Palaeoclimatology, Palaeoecology, Vol. 302, pp. 95-108. 
+doi:10.1016/j.palaeo.2010.06.002. 
+
+
+
+GEOGRAPHIC REGION: Subpolar North Atlantic 
+PERIOD OF RECORD: 2001 A.D. to 1 A.D. 
+
+FUNDING SOURCES: 
+LEFE program supported by INSU (Institut National des Sciences 
+de l'Univers), CNRS, EU-PACLIVA project (Pattern of Climate 
+Variability in the North Atlantic) funded by the European Union 
+5th Framework Programme (contract EVK2-2002-00143), Millennium 
+project funded by the European Union 6th Framework Programme 
+(contract EVK-CT-2006-017008), NERC RAPiD Climate Change Programme 
+grant NER/T/S/2002/00436, ANR ESCARSEL project, THOR project 
+funded by the European Community's 7th framework program 
+(FP7/2007-2013) under grant agreement GA212643 
+(Thermohaline Overturning - at Risk (THOR), 2008-2012). 
+
+
+
+DATA FILE URLS: 
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sicre2011/sicre2011.txt 
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sicre2011/sicre2011.xls 
+
+
+
+DESCRIPTION: 
+Decadal resolution time series of sea surface temperature (SST) 
+obtained from alkenone paleothermometry spanning the last two millennia.
+Data are from North Atlantic cores MD99-2275 and RAPiD 21-3K. 
+MD99-2275 is located north of Iceland, in the polar front, 
+and RAPiD 21-3K is located in the subpolar Atlantic, South of Iceland.
+
+
+The current MD99-2275 age model is constructed using eight 
+geochemically identified tephra layers  [Knudsen et al., 2009, Table 2], 
+the 137Cs peak of maximum nuclear testing in 1963 A.D., and the top 
+of undisturbed sediment according to 210Pb measurements. 
+The top of the spliced cores at site MD99-2275 is assumed 
+at 2006 ± 1 A.D, and estimation of age model uncertainties 
+for the record has been published [Eiríksson et al., 2011]. 
+Temporal resolution ranges from 2 to 4 years. 
+
+This reconstruction extends to the present-day the decadal-scale 
+alkenone based SST reconstruction earlier published by Sicre et al. 
+[Earth Planet. Sci. Lett., 268, 137-142, doi:10.1016/j.epsl.2008.01.011, 
+2008a] and Sicre et al. [Quat. Sci. Rev., 27, 2041-2047, 
+doi:10.1016/j.quascirev. 2008.08.009, 2008b] 
+and now includes the 20th century. 
+
+Overall, this MD99-2275 spliced record combines three sediment sequence 
+reconstructions with different coring devices (piston, gravity and box) 
+in a highly variable region thus represents a unique regional 
+reconstruction benchmark. 
+
+MD99-2275:  66°33'N, 17°42'W, 470 m water depth 
+RAPiD 21-3K: 57°27.09'N, 27°54.53'W, 2630 m water depth 
+
+
+
+DATA: 
+1. Spliced MD99-2275 alkenone SST
+
+Age(yrAD)      T°C
+2001           6.6
+1998           6.3
+1995           7.0
+1993           7.3
+1990           8.3
+1987           6.9
+1985           6.9
+1982           6.2
+1980           6.0
+1977           6.6
+1974           6.7
+1972           6.3
+1969           5.4
+1967           6.2
+1964           6.8
+1960           7.0
+1955           6.3
+1950           6.8
+1945           5.8
+1942           6.8
+1939           7.1
+1936           6.9
+1932           7.0
+1929           7.2
+1928           6.9
+1925           6.5
+1922           6.7
+1918           6.7
+1915           6.2
+1912           6.7
+1908           6.6
+1905           6.8
+1902           6.9
+1898           7.1
+1895           7.0
+1893           7.0
+1891           6.9
+1889           8.3
+1888           7.5
+1886           6.9
+1884           6.8
+1883           7.2
+1881           7.3
+1880           7.1
+1878           7.5
+1876           6.9
+1875           6.6
+1872           7.5
+1870           7.8
+1868           6.5
+1867           7.3
+1865           7.7
+1863           6.5
+1860           7.7
+1859           7.2
+1857           7.9
+1855           7.1
+1854           6.5
+1852           8.2
+1850           6.3
+1849           7.6
+1847           7.1
+1846           7.0
+1844           6.9
+1842           6.9
+1841           7.0
+1839           7.4
+1837           6.4
+1836           6.9
+1834           7.3
+1833           7.6
+1831           8.1
+1829           7.5
+1828           7.8
+1826           7.0
+1825           7.2
+1823           6.6
+1821           7.2
+1820           7.6
+1818           7.9
+1816           7.6
+1815           7.7
+1813           7.8
+1812           7.6
+1810           6.7
+1808           7.1
+1807           7.6
+1805           7.1
+1803           7.2
+1802           7.6
+1800           7.5
+1798           8.2
+1797           7.8
+1795           7.6
+1793           7.4
+1791           7.5
+1789           7.5
+1787           7.4
+1785           7.5
+1783           7.3
+1781           8.2
+1779           7.3
+1777           7.5
+1776           7.6
+1774           7.0
+1772           6.6
+1770           7.3
+1768           7.2
+1766           8.1
+1764           6.8
+1762           7.9
+1760           8.5
+1758           7.3
+1756           6.5
+1754           7.0
+1752           7.9
+1750           7.6
+1748           7.3
+1746           6.8
+1744           6.8
+1742           6.8
+1740           7.2
+1738           7.0
+1737           7.5
+1735           6.6
+1733           7.3
+1731           7.4
+1729           7.3
+1727           7.7
+1725           7.8
+1723           7.2
+1721           7.8
+1719           7.5
+1717           7.5
+1714           7.7
+1711           7.6
+1708           8.2
+1705           8.0
+1702           7.4
+1699           8.0
+1695           7.7
+1692           7.8
+1689           7.7
+1686           7.8
+1683           8.0
+1680           6.0
+1677           7.0
+1674           7.0
+1671           7.4
+1668           7.6
+1665           6.6
+1662           8.1
+1659           7.4
+1655           7.6
+1652           7.7
+1649           8.1
+1646           8.4
+1643           8.2
+1640           7.4
+1637           7.8
+1634           7.9
+1631           7.7
+1628           8.2
+1625           7.8
+1622           7.8
+1619           7.4
+1615           7.3
+1612           7.5
+1609           7.9
+1606           8.8
+1603           9.3
+1600           8.7
+1597           8.7
+1594           8.3
+1591           7.9
+1588           6.7
+1582           7.7
+1579           7.7
+1575           8.3
+1572           7.9
+1569           7.9
+1566           7.7
+1563           6.6
+1560           8.0
+1557           8.1
+1554           8.3
+1551           8.4
+1548           8.3
+1545           6.9
+1542           5.9
+1539           6.7
+1535           8.2
+1532           7.8
+1529           7.8
+1526           8.4
+1523           8.3
+1520           8.4
+1517           7.6
+1514           7.2
+1511           8.6
+1508           8.3
+1505           8.2
+1502           7.3
+1499           7.6
+1495           7.9
+1492           7.7
+1489           7.9
+1486           7.6
+1483           7.5
+1480           7.5
+1477           7.8
+1475           8.5
+1473           8.0
+1470           9.5
+1468           8.4
+1466           8.6
+1464           9.6
+1461           8.7
+1459           8.0
+1457           8.9
+1455           7.1
+1452           7.7
+1450           8.1
+1448           8.4
+1446           7.6
+1444           8.2
+1441           7.7
+1439           7.8
+1437           8.0
+1435           7.3
+1432           7.2
+1430           7.6
+1428           7.5
+1426           7.6
+1423           7.1
+1421           6.9
+1419           7.9
+1417           8.1
+1414           8.7
+1412           9.3
+1410           8.1
+1406           7.5
+1403           8.0
+1399           7.5
+1395           7.9
+1392           8.4
+1388           7.4
+1384           7.7
+1381           7.2
+1377           7.4
+1373           8.3
+1370           7.5
+1366           7.1
+1362           7.8
+1359           8.1
+1355           7.3
+1351           7.5
+1348           7.9
+1344           7.3
+1340           7.5
+1337           8.4
+1333           7.8
+1329           8.4
+1326           8.5
+1322           9.0
+1318           8.8
+1315           8.6
+1311           8.3
+1307           9.2
+1304           8.7
+1300           9.0
+1295          10.0
+1289           8.5
+1284           8.5
+1278           9.0
+1273           9.2
+1267           8.9
+1262           8.2
+1256           8.4
+1251           7.3
+1246           7.9
+1240           8.6
+1235           8.9
+1229           9.2
+1224           8.8
+1218           8.9
+1213           8.3
+1207           9.0
+1202           9.1
+1197           9.4
+1191           9.0
+1186           9.0
+1180           8.7
+1175           9.3
+1169           8.9
+1164           9.1
+1158           8.7
+1153           8.6
+1148           8.7
+1142           8.8
+1137           8.8
+1131           8.9
+1126           8.8
+1120           8.8
+1115           8.7
+1109           8.7
+1104           9.0
+1099           9.1
+1094           9.0
+1089           9.0
+1084           9.0
+1079           8.9
+1074           9.3
+1069           8.7
+1063           8.9
+1058           8.8
+1053           9.4
+1048           8.8
+1043           9.2
+1038           9.1
+1033           9.2
+1028           8.9
+1023           8.8
+1018           9.7
+1013           9.4
+1008           9.1
+1003           8.9
+998            9.3
+993            9.0
+988            9.2
+982            8.7
+977            7.9
+972            8.5
+967            8.1
+962            8.3
+957            8.6
+952            7.6
+948            7.6
+943            8.2
+938            8.8
+933            7.9
+928            7.9
+923            8.6
+918            8.6
+913            8.0
+908            7.2
+903            7.7
+898            8.3
+893            8.1
+888            7.8
+883            8.2
+878            7.7
+873            8.6
+867            8.2
+862            6.8
+857            8.2
+851            8.3
+846            8.4
+841            8.4
+835            7.9
+830            8.6
+825            8.2
+820            8.5
+814            8.5
+809            8.1
+804            8.4
+798            7.9
+793            7.6
+788            7.9
+782            7.3
+777            7.9
+772            7.3
+766            8.3
+761            7.8
+756            7.9
+751            8.1
+745            8.0
+740            8.3
+735            8.1
+729            7.9
+724            8.2
+719            8.1
+713            7.5
+708            7.7
+703            7.9
+697            8.1
+692            7.6
+687            7.3
+681            7.8
+676            7.8
+671            7.6
+666            8.0
+660            7.9
+655            7.8
+650            8.1
+644            8.2
+639            6.7
+634            6.1
+628            7.6
+623            8.5
+618            8.8
+612            8.4
+607            8.9
+602            8.1
+597            8.3
+591            8.0
+586            7.6
+581            8.3
+575            8.2
+570            7.1
+565            8.4
+559            8.2
+554            9.7
+549            8.4
+543            8.7
+538            8.7
+533            8.9
+528            7.9
+522            9.8
+517            8.3
+512            8.4
+506            8.3
+501            8.5
+496            8.1
+490            8.5
+485            8.4
+480            7.9
+474            8.2
+469            8.3
+464            8.3
+459            8.5
+453            8.2
+448            8.2
+443            8.5
+437            8.3
+432            8.0
+427            8.1
+421            8.1
+416            8.2
+411            7.9
+405            8.4
+400            8.1
+395            9.3
+389            8.9
+384            8.2
+379            8.5
+374            8.4
+368            8.3
+363            8.3
+358            8.4
+352            8.2
+347            8.3
+342            8.5
+336            8.1
+331            6.6
+326            7.5
+320            8.1
+315            8.3
+310            7.4
+305            8.1
+299            7.8
+294            8.3
+289            8.2
+283            8.0
+278            8.1
+273            8.4
+267            9.9
+262            8.0
+257            7.6
+251           10.5
+246            7.9
+241            8.2
+236            7.9
+230            8.1
+225            8.2
+220            8.2
+214            8.8
+209            7.7
+204            8.4
+198            8.2
+193            8.2
+188            7.5
+182            6.4
+177            7.7
+172            8.6
+166            8.7
+161            7.8
+156             -
+151            9.0
+145            8.2
+140            8.2
+135            8.7
+129            8.3
+124            9.1
+119            8.5
+114            8.5
+109            8.6
+104            8.4
+99             8.8
+94             8.6
+89             9.7
+83             9.3
+78             9.1
+73             8.8
+68             9.1
+63             8.8
+58             8.3
+53             9.6
+48              -
+42             7.9
+37             8.3
+32             8.2
+27             8.4
+22             9.0
+17             9.5
+12             7.8
+7              8.7
+1              8.8
+
+
+
+
+
+
+2. Sicre et al. 2011 RAPid 21-3K alkenone SST
+
+Age(yrAD)    T°C
+1968        11.9
+1959         9.3
+1950        10.2
+1941         9.8
+1932        10.4
+1924         9.7
+1915        10.0
+1906        10.8
+1897         9.8
+1889        10.1
+1880        10.0
+1872        10.3
+1863        10.8
+1855        10.1
+1846        10.8
+1838         9.3
+1813         9.7
+1805        10.8
+1788        10.4
+1780         9.9
+1772         9.4
+1764        10.2
+1748        10.2
+1740        10.7
+1732        10.6
+1724        10.8
+1716        10.2
+1708        10.7
+1700        10.8
+1692        10.6
+1677        10.3
+1661        11.7
+1654         9.8
+1646        11.7
+1638         9.7
+1631         9.7
+1623         9.9
+1616         9.9
+1608         9.8
+1601         9.7
+1593         9.9
+1586         9.5
+1578         9.5
+1571         9.4
+1564         9.7
+1556         9.7
+1549         9.8
+1542        10.1
+1534        10.1
+1527        10.0
+1520         9.7
+1513        10.4
+1506         9.6
+1499        12.9
+1491        10.7
+1484        10.2
+1477         9.6
+1470        10.4
+1463         9.1
+1456        10.9
+1449        13.3
+1442        10.8
+1435        10.4
+1428        10.2
+1421        10.1
+1414         9.1
+1408         9.7
+1401         9.9
+1394        10.6
+1387        10.1
+1380         9.5
+1373        10.3
+1367        10.0
+1360         8.9
+1353         9.7
+1347        10.0
+1340         9.4
+1333         9.8
+1326         9.7
+1320         9.6
+1313        10.2
+1307        10.3
+1300        10.5
+1293        10.0
+1287        10.3
+1280        10.4
+1274        10.1
+1267         9.9
+1261        10.4
+1254        10.1
+1248         9.7
+1241        10.1
+1235        10.4
+1228         9.4
+1222        10.9
+1215        10.4
+1209        10.9
+1202         9.6
+1196        11.2
+1190        11.4
+1183         9.9
+1177        10.4
+1171        10.7
+1164        10.8
+1158        10.7
+1152        10.2
+1145        11.3
+1139        11.1
+1133        11.1
+1126        10.4
+1114        10.4
+1107        10.6
+1101        10.3
+1095        13.2
+1089        10.6
+1082         9.8
+1076        10.6
+1070        10.2
+1064        10.3
+1057        10.3
+1051        10.6
+1045        10.3
+1039         9.5
+1032        11.3
+1026        10.5
+1020        10.3
+1014        10.1
+1008        10.1
+1001         7.7
+995          9.3
+989         11.3
+983         10.0
+977         10.3
+970         10.5
+964         10.4
+958         10.1
+952         10.6
+946         10.7
+939          9.6
+933         10.7
+927         10.4
+921         10.5
+915         10.9
+908         10.6
+902         10.7
+896         10.3
+890         10.5
+883         10.3
+877         10.6
+871         10.2
+865         10.6
+852         10.6
+846         10.4
+840         10.2
+834         10.6
+827         10.9
+821         10.6
+815         10.3
+809         10.3
+802         10.0
+796          9.6
+790         11.1
+777         10.1
+771         10.3
+764         10.2
+758          9.9
+752          9.3
+745         10.2
+739         10.1
+733         10.0
+726          9.3
+720         10.4
+714         10.3
+707         10.2
+701         10.2
+688          9.3
+681         10.3
+675         10.3
+669         10.3
+662         10.8
+656          9.8
+649         10.6
+643         10.6
+636         10.2
+629         10.7
+623         10.4
+616         10.9
+610         10.4
+603         10.3
+596          9.1
+590          9.4
+583         10.5
+577          9.7
+570          9.9
+563          8.7
+556         10.5
+550         11.0
+543         11.5
+536         10.3
+529         10.8
+523          9.6
+516         10.1
+509         10.3
+502         10.3
+495          8.9
+488          9.6
+481         10.0
+474         10.3
+468         10.7
+461         10.2
+454         10.4
+447         10.7
+440         10.8
+432         10.6
+425         10.5
+418         10.4
+411         10.9
+404         10.8
+397         10.5
+390         10.3
+382         10.9
+375         10.1
+368         11.0
+361         11.2
+353         10.8
+346         10.9
+339         10.5
+331         11.0
+324         11.1
+316         11.0
+309         10.5
+301         10.9
+294         11.3
+286         10.7
+279         10.8
+271         10.8
+264         10.1
+256         10.7
+248         10.5
+241         10.7
+233         10.8
+225         10.8
+217         10.4
+209         10.9
+202         10.9
+194         10.4
+178         10.5
+170         10.5
+162         11.5
+154         11.0
+146         10.7
+138         10.8
+130         10.9
+121         10.6
+113         10.2
+105         10.7
+97          10.5
+88          10.5
+80          10.3
+72          11.0
+63          10.7
+55          10.4
+46          10.4
+38          11.4
+29           9.9
+21          10.1
+12          10.4
+4           10.5
+-5          10.7
+

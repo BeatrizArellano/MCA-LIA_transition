@@ -1,0 +1,519 @@
+#  Labrador Current Sea Surface Temperature Reconstruction over the last 2000 years
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: http://www.ncdc.noaa.gov/paleo/study/17716
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sicre2014/sicre2014-03g-04bc.txt
+#
+# Original_Source_URL: http://dx.doi.org/10.1016/j.epsl.2014.05.016
+#
+# Archive: Paleoceanography
+#---------------------------------------
+# Contribution_Date
+#    Date: 2015-01-13
+#---------------------------------------
+# Title
+#    Study_Name:  Labrador Current Sea Surface Temperature Reconstruction over the last 2000 years
+#---------------------------------------
+# Investigators
+#      Investigators: Sicre, M.-A.; Weckström, Kaarina; Seidenkrantz, M.-S.; Kuijpers, A.; Benetti, M.; Massé, G.; Ezat, U.; Schmidt, S.; Bouloubassi, I.; Olsen, J.; Khodri, M.; Mignot, J.
+#---------------------------------------
+# Description and Notes
+#        Description: SST based on alkenones in the flow past of the Labrador Current; SST variability strongly linked to the Northern Annular Mode with +NaM giving low SST. AI07-12G and AI07-11BC are from Placentia Bay, southeastern Newfoundland. AI07-03G  and AI07-04BC are from Bonavista Bay, northeastern Newfoundland. 
+#          Provided Keywords: Sea surface temperature,  alkenones, Northern Annular Mode, Labrador Current Streght, Gulf Stream, Atlantic Meridional Overturning Circulation (AMOC), Little Ice Age, Medeival Climate Anomaly, seesaw pattern, 2000 years
+#---------------------------------------
+# Publication
+# Authors: Sicre, M.-A., K. Weckström, M.-S.Seidenkrantz, A. Kuijpers, M. Benetti, G. Massé, U. Ezat, S. Schmidt, I. Bouloubassi, J. Olsen, M. Khodri, and J. Mignot
+# Published_Date_or_Year: 2014
+# Published_Title: Labrador current variability over the last 2000 years
+# Journal_Name: Earth and Planetary Science Letters
+# Volume: 400
+# Issue: 
+# Pages: 26-32
+# Report Number: 
+# DOI: 10.1016/j.epsl.2014.05.016
+# Abstract: The ice-loaded Labrador Current (LC) is an important component of the western North Atlantic circulation that influences the position and strength of the northern limb of the North Atlantic Current (NAC). This flow of cold and fresh Polar Waters originating from the Arctic has a marked impact on the North Atlantic climate, yet little is known about its variability beyond the instrumental period. In this study, we present the first sub-decadal alkenone-based 2000-year long sea-surface temperature (SST) records from the western Labrador Sea, a climatically crucial region at the boundary between the LC and the NAC. Our results show a clear link between the LC strength and the Northern Annular Mode (NAM),with a stronger NAM and a more vigorous LC during the Medieval Climate Anomaly (MCA). This suggests enhanced LC activity upon future global warming with implications for the Atlantic Meridional overturning circulation (AMOC).
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: INSU-CNRS
+#    Grant: French LEFE/INSUNAIV project
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  European Commission Starting Grant
+#    Grant: ICEPROXY 203441
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  Marie Curie Intra-European Fellowship
+#    Grant: 236678
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Danish Council for Independent Research Natural Science
+#    Grant: FNU Grants 09-069833, 12-126709, 272-06-0604
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: European Union’s Seventh Framework programme
+#    Grant: Past4Future (agreement No.243908).
+#---------------------------------------
+# Site Information
+# Site_Name: AI07-03G  and AI07-04BC
+# Location: North Atlantic Ocean
+# Country: Canada
+# Northernmost_Latitude: 48.733
+# Southernmost_Latitude: 48.733
+# Easternmost_Longitude: -29.483
+# Westernmost_Longitude: -29.483
+# Elevation: -329
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: AI07-03G and AI07-04BC SST Sicre14
+#   First_Year: 5740
+#   Last_Year: -56
+#   Time_Unit: cal years BP
+#   Core_Length: 460
+#   Notes: Core lengths: AI07-03G: 460 cm, AI07-04BC: 39.5 cm.
+#---------------------------------------
+# Chronology: 
+# Age model is based on tephrachronology. Many 14C dates also exist (see below), but are no longer used in the age models from this site.
+# Lab ID  sample identification used by 14C laboratory (POZ: Poznan Radiocarbon Laboratory, Poznan, Poland; CAMS  Lawrence Livermore National Laboratory?s Center for Accelerator Mass Spectrometry, Livermore, USA)  
+# Dated material  dated material  
+# depth_bot (mm)   Depth bottom of sample interval (mm)  
+# depth_top (mm)   Depth top of sample interval (mm)  
+# age (bp)   non-14C age, years before 150AD  
+# age14C (bp)   conventional radiocarbon age, years before 1950AD    
+# age_error (years)   radiocarbon age, standard error   
+# calibrated age (cal BP)  Calibrated  age cal BP  
+# 2-sigma error of cal age (years)  2-sigma confidence   
+# cal_age_range_old (bp)   Calibarted age range of the sample - oldest  Note 1 sigma age range  
+# cal_age_range_young (2_s)   Calibarted age range of the sample - yougest  Note 1 sigma age range  
+# depth (mm)   Depth at the middle of the sample (mm)  NaN  
+# thickness (mm)  Sample thickness (mm)  NaN  
+# notes  notes  NaN  
+# 
+# Lab ID  Dated material  depth_bot (mm)    depth_top (mm)    14C age (bp)    age14C (bp)    age_error (years) (1 sigma)  modelled calibrated age (cal BP)  2-sigma error of cal age (years)   cal_age_range_old (bp)    cal_age_range_young (bp)    depth (mm)    thickness (mm)  notes  
+# EPOC, Bordeaux, France  210Pb  NaN  0  NaN  NA  NA  -56  NA  NA  NA  NA  NA  AI07-04BC (boxcore) was 210 PB dated  
+# AAR-12702  Mixed benthic foraminiferal assemblage  370  350  NA  1181  35  620  68  721  504  360  20  AI07-03G  
+# AAR-16629  Shell  450  440  153  1481  24  Outlier  NA  1032  734  445  10  AI07-03G  
+# AAR-12268  Mixed benthic foraminiferal assemblage  610  600  233  1516  30  910  80  1075  755  605  10  AI07-03G  
+# AAR-16630  Shell  890  880  473  1785  35  1204  85  1334  1043  885  10  AI07-03G  
+# AAR-16623  Shell  1110  1100  540  1940  26  1423  92  1507  1233  1105  10  AI07-03G  
+# AAR-16624  Shell  1215  1205  650  2131  27  1566  96  1715  1378  1210  10  AI07-03G  
+# AAR-12703  Mixed benthic foraminiferal assemblage  1520  1510  846  2463  38  1979  107  2131  1766  1515  10  AI07-03G  
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## depth_cm     depth,,, cm,,,middle of sample,,N
+## age_AD  age,,,years AD,,,,,N
+## SST-uk37.lspr  sea-surface temeprature estimation,alkenones,,degrees C,late spring,,,Calibration: PRA1988; Alkenone calibration to SST (Prahl et al., 1988),N
+## notes  notes,,,,,,,,C
+#----------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Value: NA 
+depth_cm	age_AD	SST-uk37.lspr	notes	
+0.25    2006    5.0     AI07-04BC
+0.75    2005    5.1     AI07-04BC
+1.25    2004    4.3     AI07-04BC
+1.75    2003    4.6     AI07-04BC
+2.5     2001    5.1     AI07-04BC
+3.5     1999    4.5     AI07-04BC
+4.5     1997    4.7     AI07-04BC
+5.5     1994    4.5     AI07-04BC
+6.5     1992    4.5     AI07-04BC
+7.5     1990    4.6     AI07-04BC
+8.5     1987    4.8     AI07-04BC
+9.5     1985    5.4     AI07-04BC
+10.5    1983    5.1     AI07-04BC
+11.5    1980    5.4     AI07-04BC
+12.5    1978    4.9     AI07-04BC
+13.5    1976    5.0     AI07-04BC
+14.5    1973    4.7     AI07-04BC
+15.5    1971    5.0     AI07-04BC
+16.5    1969    5.0     AI07-04BC
+17.5    1966    4.8     AI07-04BC
+18.5    1964    5.1     AI07-04BC
+19.5    1962    5.0     AI07-04BC
+20.5    1960    5.2     AI07-04BC
+21.5    1957    5.0     AI07-04BC
+22.5    1955    5.1     AI07-04BC
+23.5    1953    5.2     AI07-04BC
+24.5    1950    5.0     AI07-04BC
+25.5    1948    4.8     AI07-04BC
+26.5    1946    5.2     AI07-04BC
+27.5    1943    4.9     AI07-04BC
+28.5    1941    5.3     AI07-04BC
+29.5    1939    5.1     AI07-04BC
+30.5    1936    5.0     AI07-04BC
+31.5    1934    4.9     AI07-04BC
+0.5     1721    5.1     AI07-03G
+0.75    1718    5.3     AI07-03G
+1.25    1712    5.3     AI07-03G
+1.75    1706    5.2     AI07-03G
+2.25    1700    5.2     AI07-03G
+2.5     1698    5.0     AI07-03G
+2.75    1695    4.5     AI07-03G
+3.25    1689    4.9     AI07-03G
+3.75    1684    4.9     AI07-03G
+4.25    1679    4.6     AI07-03G
+4.5     1676    5.1     AI07-03G
+4.75    1674    4.8     AI07-03G
+5.25    1668    4.6     AI07-03G
+5.75    1663    4.7     AI07-03G
+6.25    1657    4.8     AI07-03G
+6.5     1655    5.2     AI07-03G
+6.75    1652    5.0     AI07-03G
+7.25    1646    5.1     AI07-03G
+7.75    1641    4.8     AI07-03G
+8.25    1635    5.4     AI07-03G
+8.5     1633    5.0     AI07-03G
+8.75    1630    5.2     AI07-03G
+9.25    1624    4.8     AI07-03G
+9.75    1619    5.3     AI07-03G
+10.25   1613    5.3     AI07-03G
+10.5    1611    5.6     AI07-03G
+10.75   1608    5.2     AI07-03G
+11.25   1602    5.2     AI07-03G
+11.75   1597    5.1     AI07-03G
+12.25   1591    5.1     AI07-03G
+12.5    1589    5.2     AI07-03G
+12.75   1586    5.2     AI07-03G
+13.25   1580    5.2     AI07-03G
+13.75   1575    5.1     AI07-03G
+14.25   1569    5.3     AI07-03G
+14.5    1566    5.2     AI07-03G
+14.75   1563    5.2     AI07-03G
+15.25   1557    5.1     AI07-03G
+15.75   1552    5.8     AI07-03G
+16.25   1546    5.2     AI07-03G
+16.5    1544    4.7     AI07-03G
+16.75   1541    5.2     AI07-03G
+17.25   1535    5.1     AI07-03G
+17.75   1530    5.3     AI07-03G
+18.25   1524    5.4     AI07-03G
+18.5    1522    5.1     AI07-03G
+18.75   1519    5.3     AI07-03G
+19.25   1513    5.4     AI07-03G
+19.75   1508    5.3     AI07-03G
+20.25   1502    5.8     AI07-03G
+20.5    1500    5.0     AI07-03G
+20.75   1497    5.4     AI07-03G
+21.25   1491    5.3     AI07-03G
+21.75   1486    5.1     AI07-03G
+22.25   1480    4.9     AI07-03G
+22.5    1478    6.1     AI07-03G
+22.75   1475    6.3     AI07-03G
+23.25   1469    6.0     AI07-03G
+23.75   1464    5.3     AI07-03G
+24.25   1458    7.8     AI07-03G
+24.5    1456    6.0     AI07-03G
+24.75   1453    4.9     AI07-03G
+25.25   1447    4.6     AI07-03G
+25.75   1442    4.7     AI07-03G
+26.25   1436    4.9     AI07-03G
+26.5    1434    5.2     AI07-03G
+26.75   1431    4.6     AI07-03G
+27.25   1425    5.0     AI07-03G
+27.75   1420    5.2     AI07-03G
+28.25   1414    5.2     AI07-03G
+28.5    1412    5.5     AI07-03G
+28.75   1409    4.6     AI07-03G
+29.25   1403    5.3     AI07-03G
+29.75   1398    4.8     AI07-03G
+30.25   1392    5.7     AI07-03G
+30.5    1390    4.9     AI07-03G
+30.75   1387    5.1     AI07-03G
+31.25   1381    4.9     AI07-03G
+31.75   1376    5.9     AI07-03G
+32.25   1370    5.2     AI07-03G
+32.5    1368    5.0     AI07-03G
+32.75   1365    4.9     AI07-03G
+33.25   1359    5.3     AI07-03G
+33.75   1353    5.3     AI07-03G
+34.25   1347    5.3     AI07-03G
+34.5    1345    4.8     AI07-03G
+34.75   1342    4.9     AI07-03G
+36.5    1320    4.7     AI07-03G
+37.25   1308    4.5     AI07-03G
+37.75   1303    4.7     AI07-03G
+38.25   1298    4.6     AI07-03G
+38.5    1295    4.9     AI07-03G
+38.75   1292    4.6     AI07-03G
+39.25   1287    4.8     AI07-03G
+39.75   1282    5.0     AI07-03G
+40.25   1277    4.9     AI07-03G
+40.5    1274    4.7     AI07-03G
+40.75   1271    4.8     AI07-03G
+41.25   1266    4.7     AI07-03G
+41.75   1261    4.8     AI07-03G
+42.25   1255    4.9     AI07-03G
+42.5    1252    4.9     AI07-03G
+42.75   1249    4.7     AI07-03G
+43.25   1243    4.7     AI07-03G
+43.75   1238    4.7     AI07-03G
+44.25   1232    4.7     AI07-03G
+44.75   1226    4.7     AI07-03G
+45.25   1220    5.0     AI07-03G
+45.75   1215    4.9     AI07-03G
+46.25   1209    4.6     AI07-03G
+46.5    1206    4.6     AI07-03G
+47.25   1197    5.2     AI07-03G
+47.75   1191    5.3     AI07-03G
+48.25   1185    5.2     AI07-03G
+48.5    1183    5.3     AI07-03G
+48.75   1180    5.1     AI07-03G
+49.25   1174    5.0     AI07-03G
+49.75   1168    5.0     AI07-03G
+50.25   1162    5.1     AI07-03G
+50.5    1160    5.0     AI07-03G
+50.75   1157    5.1     AI07-03G
+51.25   1151    4.7     AI07-03G
+51.75   1145    4.8     AI07-03G
+52.25   1139    4.8     AI07-03G
+52.5    1137    5.1     AI07-03G
+53.25   1128    4.7     AI07-03G
+53.75   1122    4.6     AI07-03G
+54.25   1116    4.6     AI07-03G
+54.5    1114    5.2     AI07-03G
+54.75   1111    4.7     AI07-03G
+55.25   1105    4.7     AI07-03G
+55.75	1099	4.7	AI07-03G	
+56.25	1094	4.8	AI07-03G	
+56.5	1091	5.1	AI07-03G	
+56.75	1088	4.8	AI07-03G	
+57.25	1082	4.9	AI07-03G	
+57.75	1076	4.7	AI07-03G	
+58.25	1070	5.1	AI07-03G	
+58.5	1068	5.1	AI07-03G	
+58.75	1065	5.3	AI07-03G	
+59.75	1053	5.2	AI07-03G	
+60.25	1047	5.2	AI07-03G	
+60.5	1043	5.1	AI07-03G	
+60.75	1040	5.0	AI07-03G	
+61.25	1032	4.7	AI07-03G	
+61.75	1024	5.0	AI07-03G	
+62.5	1015	5.0	AI07-03G	
+62.75	1013	5.5	AI07-03G	
+63.25	1008	5.4	AI07-03G	
+63.75	1003	5.4	AI07-03G	
+64.25	997	6.0	AI07-03G	
+64.5	995	5.2	AI07-03G	
+64.75	992	5.5	AI07-03G	
+65.25	987	5.4	AI07-03G	
+65.5	984	5.4	AI07-03G	
+65.75	982	5.7	AI07-03G	
+66.25	977	5.5	AI07-03G	
+66.75	972	5.7	AI07-03G	
+67.25	966	5.9	AI07-03G	
+67.75	961	5.5	AI07-03G	
+68.25	955	5.4	AI07-03G	
+68.5	952	5.1	AI07-03G	
+68.75	949	5.2	AI07-03G	
+69.25	943	5.6	AI07-03G	
+69.75	938	5.5	AI07-03G	
+70.25	932	5.3	AI07-03G	
+70.5	929	5.2	AI07-03G	
+70.75	926	5.5	AI07-03G	
+71.25	920	5.5	AI07-03G	
+71.75	915	5.6	AI07-03G	
+72.25	909	5.9	AI07-03G	
+72.5	907	5.6	AI07-03G	
+72.75	904	5.4	AI07-03G	
+73.25	898	5.4	AI07-03G	
+73.75	892	5.4	AI07-03G	
+74.25	886	5.5	AI07-03G	
+74.5	884	5.1	AI07-03G	
+74.75	881	5.3	AI07-03G	
+75.25	875	5.4	AI07-03G	
+75.75	869	4.3	AI07-03G	
+76.25	863	5.5	AI07-03G	
+76.5	861	5.1	AI07-03G	
+76.75	858	5.3	AI07-03G	
+77.25	852	5.8	AI07-03G	
+77.75	847	5.6	AI07-03G	
+78.25	841	5.3	AI07-03G	
+78.5	838	5.3	AI07-03G	
+78.75	835	5.8	AI07-03G	
+79.25	829	5.6	AI07-03G	
+79.75	824	5.5	AI07-03G	
+80.25	818	5.4	AI07-03G	
+80.5	815	5.1	AI07-03G	
+80.75	812	5.6	AI07-03G	
+81.25	806	5.6	AI07-03G	
+82.25	795	5.5	AI07-03G	
+82.5	793	5.1	AI07-03G	
+82.75	790	5.3	AI07-03G	
+83.25	784	5.4	AI07-03G	
+83.75	778	5.3	AI07-03G	
+84.25	772	5.3	AI07-03G	
+84.5	770	5.5	AI07-03G	
+84.75	767	5.2	AI07-03G	
+85.25	761	5.3	AI07-03G	
+85.75	755	5.0	AI07-03G	
+86.25	749	5.4	AI07-03G	
+86.5	747	5.0	AI07-03G	
+86.75	744	5.5	AI07-03G	
+87.25	738	5.3	AI07-03G	
+87.75	733	5.2	AI07-03G	
+88.25	727	5.3	AI07-03G	
+88.5	724	5.2	AI07-03G	
+88.75	721	5.4	AI07-03G	
+89.25	715	5.5	AI07-03G	
+89.75	710	5.4	AI07-03G	
+90.25	704	5.6	AI07-03G	
+90.5	701	5.4	AI07-03G	
+90.75	698	5.3	AI07-03G	
+91.25	692	6.1	AI07-03G	
+91.75	687	6.2	AI07-03G	
+92.25	681	5.5	AI07-03G	
+92.5	679	5.2	AI07-03G	
+92.75	676	5.5	AI07-03G	
+93.25	670	5.4	AI07-03G	
+93.75	664	5.3	AI07-03G	
+94.25	658	5.3	AI07-03G	
+94.5	656	5.2	AI07-03G	
+94.75	653	5.3	AI07-03G	
+95.25	647	5.7	AI07-03G	
+95.75	641	5.3	AI07-03G	
+96.25	637	5.7	AI07-03G	
+96.5	633	5.4	AI07-03G	
+96.75	630	5.6	AI07-03G	
+97.25	624	5.5	AI07-03G	
+97.75	619	3.5	AI07-03G	
+98.25	613	5.3	AI07-03G	
+98.5	610	5.2	AI07-03G	
+98.75	607	5.5	AI07-03G	
+99.25	601	5.3	AI07-03G	
+99.75	596	5.3	AI07-03G	
+100.25	590	5.5	AI07-03G	
+100.5	587	5.3	AI07-03G	
+100.75	584	5.2	AI07-03G	
+101.25	578	5.3	AI07-03G	
+101.75	573	5.4	AI07-03G	
+102.25	567	5.4	AI07-03G	
+102.5	564	5.1	AI07-03G	
+102.75	561	5.3	AI07-03G	
+103.25	555	5.6	AI07-03G	
+103.75	550	5.8	AI07-03G	
+104.25	544	6.3	AI07-03G	
+104.5	541	5.3	AI07-03G	
+104.75	538	5.8	AI07-03G	
+105.25	532	5.1	AI07-03G	
+106.25	521	5.1	AI07-03G	
+106.5	518	5.1	AI07-03G	
+106.75	515	5.4	AI07-03G	
+107.25	509	5.1	AI07-03G	
+107.75	504	5.0	AI07-03G	
+108.25	498	5.0	AI07-03G	
+108.5	495	5.4	AI07-03G	
+108.75	492	5.3	AI07-03G	
+109.25	486	5.4	AI07-03G	
+109.75	481	5.4	AI07-03G	
+110.25	475	5.1	AI07-03G	
+110.5	472	5.4	AI07-03G	
+110.75	469	5.3	AI07-03G	
+111.25	463	5.2	AI07-03G	
+111.75	458	5.2	AI07-03G	
+112.25	452	5.2	AI07-03G	
+112.5	450	5.4	AI07-03G	
+112.75	447	5.1	AI07-03G	
+113.25	441	5.2	AI07-03G	
+113.75	435	5.1	AI07-03G	
+114.25	429	5.7	AI07-03G	
+114.5	427	5.5	AI07-03G	
+114.75	424	5.2	AI07-03G	
+115.25	418	5.2	AI07-03G	
+115.75	412	5.5	AI07-03G	
+116.25	406	5.2	AI07-03G	
+116.5	404	5.4	AI07-03G	
+116.75	401	5.5	AI07-03G	
+117.25	395	5.4	AI07-03G	
+117.75	390	5.2	AI07-03G	
+118.25	384	5.1	AI07-03G	
+118.5	381	5.1	AI07-03G	
+118.75	378	5.0	AI07-03G	
+119.25	372	4.9	AI07-03G	
+119.75	367	5.2	AI07-03G	
+120.25	361	5.0	AI07-03G	
+120.5	358	4.5	AI07-03G	
+120.75	355	4.8	AI07-03G	
+121.25	349	4.9	AI07-03G	
+121.75	344	5.4	AI07-03G	
+122.25	338	5.3	AI07-03G	
+122.5	336	4.6	AI07-03G	
+122.75	333	5.1	AI07-03G	
+123.25	327	5.3	AI07-03G	
+123.75	321	5.1	AI07-03G	
+124.25	315	5.0	AI07-03G	
+124.5	313	5.6	AI07-03G	
+124.75	310	5.5	AI07-03G	
+125.25	304	5.3	AI07-03G	
+125.75	298	4.8	AI07-03G	
+126.25	292	4.6	AI07-03G	
+126.5	290	5.5	AI07-03G	
+126.75	287	5.1	AI07-03G	
+127.25	281	5.1	AI07-03G	
+127.75	275	5.2	AI07-03G	
+128.25	269	5.2	AI07-03G	
+128.5	267	5.4	AI07-03G	
+128.75	264	5.3	AI07-03G	
+129.25	258	5.3	AI07-03G	
+129.75	252	5.3	AI07-03G	
+130.5	244	5.7	AI07-03G	
+130.75	241	5.5	AI07-03G	
+131.25	235	5.3	AI07-03G	
+131.75	229	5.5	AI07-03G	
+132.5	221	4.7	AI07-03G	
+132.75	218	5.5	AI07-03G	
+133.25	212	5.6	AI07-03G	
+133.75	207	5.2	AI07-03G	
+134.25	201	5.3	AI07-03G	
+134.5	200	5.3	AI07-03G	
+134.75	198	5.3	AI07-03G	
+135.25	195	5.3	AI07-03G	
+135.75	184	5.2	AI07-03G	
+136.25	178	5.3	AI07-03G	
+136.5	175	5.4	AI07-03G	
+136.75	172	5.3	AI07-03G	
+137.25	166	5.2	AI07-03G	
+137.75	161	5.8	AI07-03G	
+138.25	155	5.8	AI07-03G	
+138.5	153	5.5	AI07-03G	
+138.75	149	5.6	AI07-03G	
+139.25	143	5.6	AI07-03G	
+139.75	138	5.7	AI07-03G	
+140.25	132	5.3	AI07-03G	
+140.5	130	4.9	AI07-03G	
+140.75	126	5.6	AI07-03G	
+141.25	120	5.5	AI07-03G	
+141.75	115	5.6	AI07-03G	
+142.25	109	5.8	AI07-03G	
+142.5	107	5.3	AI07-03G	
+142.75	104	6.1	AI07-03G	
+143.25	98	6.0	AI07-03G	
+143.75	93	5.8	AI07-03G	
+144.25	87	5.5	AI07-03G	
+144.5	84	4.9	AI07-03G	
+144.75	81	5.5	AI07-03G	
+145.25	75	5.6	AI07-03G	
+145.75	70	5.5	AI07-03G	
+146.25	64	5.1	AI07-03G	
+146.75	59	5.6	AI07-03G	
+147.75	48	5.5	AI07-03G	
+148.25	42	6.0	AI07-03G	
+148.5	39	5.5	AI07-03G	
+148.75	36	6.2	AI07-03G	
+149.25	30	6.0	AI07-03G	
+149.75	24	5.9	AI07-03G	
+150.25	18	5.9	AI07-03G	
+150.5	16	5.7	AI07-03G	
+150.75	8	6.2	AI07-03G

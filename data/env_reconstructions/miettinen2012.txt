@@ -1,0 +1,372 @@
+# Subpolar North Atlantic 2000 Year Diatom August SST Reconstruction 
+# ----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                   and 
+#                      NOAA Paleoclimatology Program 
+# ----------------------------------------------------------------------- 
+# NOTE: Please cite original reference when using these data, 
+# plus the data file URL and date accessed. 
+
+# NAME OF DATA SET: 
+# Subpolar North Atlantic 2000 Year Diatom August SST Reconstruction
+# LAST UPDATE: 4/2012 (Original receipt by WDC Paleo) 
+# CONTRIBUTORS: Miettinen, A., D. Divine, N. Koç¸ F. Godtliebsen, 
+# and I.R. Hall 
+# IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2012-052 
+
+
+# WDC PALEO CONTRIBUTION SERIES CITATION: 
+# Miettinen, A., et al. 2012. 
+# Subpolar North Atlantic 2000 Year Diatom August SST Reconstruction. 
+# IGBP PAGES/World Data Center for Paleoclimatology 
+# Data Contribution Series # 2012-052. 
+# NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+
+# ORIGINAL REFERENCE: 
+# Miettinen, A., D. Divine, N. Koç¸ F. Godtliebsen, and I.R. Hall. 2012. 
+# Multicentennial variability of the sea surface temperature gradient 
+# across the subpolar North Atlantic over the last 2.8 kyr. 
+# Journal of Climate, doi:10.1175/JCLI-D-11-00581.1, in press. 
+
+# ABSTRACT: 
+# A 2800-yr-long August sea surface temperature (aSST) record 
+# based on fossil diatom assemblages is generated from a marine 
+# sediment core from the northern subpolar North Atlantic. 
+# The record is compared with the aSST record from the Norwegian 
+# Sea to explore the variability of the aSST gradient between 
+# these areas during the late Holocene. 
+
+# The aSST records demonstrate the opposite climate tendencies 
+# toward a persistent warming in the core site in the subpolar 
+# North Atlantic and cooling in the Norwegian Sea. At the 
+# multicentennial scale of aSST variability of 600-900 yr, 
+# the records are nearly in antiphase with warmer (colder) 
+# periods in the subpolar North Atlantic corresponding to 
+# the colder (warmer) periods in the Norwegian Sea. At the 
+# shorter time scale of 200-450 yr, the records display 
+# a phase-locked behavior with a tendency for the positive 
+# aSST anomalies in the Norwegian Sea to lead, by ~30 yr, 
+# the negative aSST anomalies in the subpolar North Atlantic. 
+# This apparent aSST seesaw might have an effect on two major 
+# anomalies of the European climate of the past Millennium: 
+# Medieval Warm Period (MWP) and the Little Ice Age (LIA). 
+# During the MWP warming of the sea surface in the Norwegian 
+# Sea occurred in parallel with cooling in the northern 
+# subpolar North Atlantic, whereas the opposite pattern 
+# emerged during the LIA.  
+
+# The results suggest that the observed aSST seesaw between 
+# the subpolar North Atlantic and the Norwegian Sea could be 
+# a surface expression of the variability of the eastern 
+# and western branches of the Atlantic meridional overturning 
+# circulation (AMOC) with a possible amplification through 
+# atmospheric feedback. 
+
+
+
+# ADDITIONAL REFERENCES: 
+# Boessenkool, K.P., I.R. Hall, H. Elderfield, and I. Yashayaev. 2007. 
+# North Atlantic climate and deep-ocean flow speed changes 
+# during the last 230 years. 
+# Geophysical Research Letters 34, L13614, doi:10.1029/2007GL030285. 
+
+# Sicre, M.-A., I.R. Hall, J. Mignot, M. Khodri, U. Ezat, 
+# M.-X. Truong, J. Eiríksson, and K.-L. Knudsen. 2011. 
+# Sea surface temperature variability in the subpolar 
+# Atlantic over the last two millennia. 
+# Paleoceanography, 26, PA4218, doi:10.1029/2011PA002169. 
+
+# Miettinen, A., N. Koç, I.R. Hall, F. Godtliebsen, and D. Divine. 2011. 
+# North Atlantic sea surface temperatures and their relation 
+# to the North Atlantic Oscillation during the last 230 years. 
+# Climate Dynamics 36, 533–543, doi: 10.1007/s00382-010-0791-5.  
+
+# Godtliebsen, F., L. Holmström, A. Miettinen, P. Erästö, 
+# D. Divine, and N. Koç. 2012. 
+# Pairwise Scale-Space Comparison of Time Series 
+# with Application to Climate Research. 
+# Journal of Geophysical Research 117, C03046, 
+# doi:10.1029/2011JC007546.
+
+ 
+
+
+# GEOGRAPHIC REGION: North Atlantic 
+# PERIOD OF RECORD: 0 - 2004 AD 
+
+# FUNDING SOURCES: 
+# Norwegian Research Council, through the NARE project "Holocene 
+# Antarctic climate variability from ice and marine sediment cores: 
+# insights to ocean-atmosphere interaction", European Union 
+# funded "European Project for Ice Coring in Antarctica (EPICA)".
+
+
+
+# DATA FILE URLS: 
+# ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/miettinen2012/miettinen2012.txt 
+# ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/miettinen2012/miettinen2012.xls 
+
+
+# DESCRIPTION: 
+# A 2000-year-long (0-2004 AD) August Sea Surface Temperature (aSST) 
+# record with high-resolution. The aSST reconstruction is based on 
+# fossil diatom assemblages and the weighted averaging partial 
+# least squares (WA-PLS) transfer function method. 
+
+# Core Rapid 21-COM represents a composite of two individual sediment 
+# cores (Rapid 21-12B and Rapid 21-3K), which were recovered from the 
+# southern limb of the Gardar Drift, south of Iceland, during the RRS 
+# Charles Darwin cruise 159 in 2004. The age model for core Rapid 21-COM 
+# is based on 210Pb dating for the 54.3-cm-long sediment box-core 
+# Rapid 21-12B (Boessenkool et al. 2007) and on 14C dating for the 
+# 372.5-cm-long kasten core Rapid 21-3K (Boessenkool et al. 2007; 
+# Sicre et al. 2011). The previously published diatom-based aSST 
+# record from core Rapid 21–12B has 2-yr-average resolution for 
+# the last 230 years (Miettinen et al. 2011). Core Rapid 21-3K 
+# was sampled continuously at 1.0-cm intervals and analyzed at 
+# 1- to 5-cm intervals with a resolution of 8-10 yr for the interval 
+# AD 800-1770, representing the highest-resolution diatom SST 
+# reconstruction from the subpolar North Atlantic for this period, 
+# and 40 yr for interval 0-AD 800. 
+
+# Composite core Rapid 21-COM: 
+# 57°27.09'N, 27°54.53'W, 2,630 m water depth 
+
+
+
+# DATA: 
+# Miettinen et al. 2012 North Atlantic Diatom August SST Reconstruction
+
+Age_CE        August_SST
+2004          14.1
+2002          13.4
+2000          14.0
+1998          13.3
+1995          13.5
+1993          13.5
+1991          14.0
+1989          13.8
+1987          13.1
+1985          13.1
+1983          13.6
+1980          13.8
+1978          13.4
+1976          12.9
+1974          13.7
+1972          13.8
+1970          13.6
+1968          13.5
+1965          13.6
+1963          13.5
+1961          13.7
+1959          13.4
+1957          13.6
+1955          13.9
+1952          14.1
+1950          13.5
+1948          13.7
+1946          13.3
+1944          13.5
+1942          13.5
+1940          13.7
+1937          13.2
+1935          13.3
+1933          13.6
+1931          13.3
+1929          13.2
+1927          13.4
+1925          14.0
+1922          13.3
+1920          13.9
+1918          13.4
+1916          13.9
+1914          13.2
+1912          13.8
+1910          13.7
+1907          13.5
+1905          13.4
+1903          13.8
+1901          13.6
+1899          13.6
+1897          13.5
+1895          13.5
+1892          13.2
+1890          13.5
+1888          13.8
+1886          13.6
+1884          13.6
+1882          13.9
+1880          14.2
+1877          13.9
+1875          13.8
+1873          14.2
+1871          14.0
+1869          14.3
+1867          14.1
+1865          13.8
+1862          14.0
+1860          14.0
+1858          13.1
+1856          13.7
+1854          13.6
+1852          13.8
+1849          13.1
+1847          13.4
+1845          13.5
+1843          13.8
+1841          13.4
+1839          13.1
+1837          13.2
+1834          14.0
+1832          13.3
+1830          13.7
+1828          13.5
+1826          13.4
+1824          12.9
+1822          13.3
+1819          13.8
+1817          14.0
+1815          12.9
+1813          13.4
+1811          13.1
+1809          13.1
+1807          12.9
+1804          13.0
+1802          13.0
+1800          13.1
+1798          13.3
+1796          13.1
+1794          13.1
+1792          13.7
+1789          13.3
+1787          13.1
+1785          13.3
+1783          12.9
+1781          13.0
+1779          13.2
+1777          13.1
+1774          13.5
+1773          12.6
+1762          13.3
+1752          12.6
+1742          13.1
+1732          13.4
+1722          13.2
+1711          13.6
+1701          13.5
+1691          13.4
+1681          13.3
+1671          13.4
+1661          13.8
+1651          13.7
+1641          13.0
+1631          13.4
+1621          13.2
+1611          13.5
+1601          13.0
+1591          13.8
+1582          13.2
+1572          13.1
+1562          13.2
+1552          13.5
+1542          13.0
+1532          13.7
+1522          13.4
+1512          13.1
+1502          12.6
+1492          13.5
+1482          13.7
+1474          12.8
+1465          12.9
+1457          13.6
+1448          13.7
+1440          13.2
+1431          13.6
+1423          12.9
+1414          12.9
+1406          13.3
+1397          12.7
+1389          12.9
+1380          13.0
+1372          13.1
+1363          13.0
+1355          13.1
+1346          13.5
+1338          12.9
+1329          13.2
+1321          12.8
+1312          12.9
+1304          13.0
+1295          13.0
+1287          12.8
+1285          12.3
+1276          13.1
+1267          12.8
+1258          13.8
+1249          13.3
+1241          13.4
+1232          13.5
+1223          12.9
+1214          13.6
+1205          12.8
+1203          12.6
+1193          12.3
+1182          12.3
+1172          13.4
+1162          12.9
+1151          12.8
+1141          12.5
+1131          12.9
+1120          12.5
+1110          12.7
+1089          12.8
+1079          13.2
+1069          13.0
+1058          13.0
+1048          13.1
+1038          13.0
+1027          13.4
+1017          13.3
+1007          12.6
+996           13.2
+986           12.8
+965           12.8
+955           12.4
+945           12.4
+934           12.7
+924           12.5
+914           13.1
+903           12.9
+893           13.2
+883           12.6
+872           11.9
+862           12.8
+852           13.8
+842           13.0
+832           13.4
+821           13.1
+810           13.3
+802           12.9
+765           13.2
+724           13.1
+683           13.5
+622           12.6
+581           11.9
+540           13.1
+499           13.6
+461           13.0
+423           12.8
+381           12.9
+347           12.6
+310           12.4
+272           12.2
+234           12.9
+196           12.5
+158           12.9
+120           13.2
+84            13.2
+43            12.9
+2             12.9
+

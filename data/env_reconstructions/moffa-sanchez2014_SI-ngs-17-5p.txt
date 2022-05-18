@@ -1,0 +1,288 @@
+# North Atlantic SST and Salinity Reconstructions over the Past Millennium
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/19804
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/moffa-sanchez2014-ngs/moffa-sanchez2014-ngs-17-5p.txt
+#
+# Archive: Paleoceanography
+#
+# Parameter_Keywords: oxygen isotopes, trace metal in carbonates, reconstructions
+#---------------------------------------
+# Contribution_Date
+#    Date: 2016-02-23
+#---------------------------------------
+# Title
+#    Study_Name: North Atlantic SST and Salinity Reconstructions over the Past Millennium
+#---------------------------------------
+# Investigators
+#      Investigators: Moffa-Sanchez, P; Born, A.; Hall, I.R.;Thornalley, DJR; Barker, S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: 
+#         Provided Keywords: Last millennium, Subpolar North Atlantic
+#---------------------------------------
+# Publication
+# Authors: Moffa-Sanchez, P., A. Born, I.R. Hall, D.J.R. Thornalley, and S. Barker
+# Published_Date_or_Year: 2014
+# Published_Title: Solar forcing of North Atlantic surface temperature and salinity over the past millennium
+# Journal_Name: Nature Geoscience
+# Volume: 7
+# Issue: 
+# Pages: 275-278
+# Report Number: 
+# DOI: 10.1038/ngeo2094
+# Online_Resource: http://www.nature.com/ngeo/journal/v7/n4/abs/ngeo2094.html
+# Full_Citation: 
+# Abstract: There were several centennial-scale fluctuations in the climate and oceanography of the North Atlantic region over the past 1,000 years, including a period of relative cooling from about AD 1450 to 1850 known as the Little Ice Age1. These variations may be linked to changes in solar irradiance, amplified through feedbacks including the Atlantic meridional overturning circulation2. Changes in the return limb of the Atlantic meridional overturning circulation are reflected in water properties at the base of the mixed layer south of Iceland. Here we reconstruct thermocline temperature and salinity in this region from AD 818 to 1780 using paired d18O and Mg/Ca ratio measurements of foraminifer shells from a subdecadally resolved marine sediment core. The reconstructed centennial-scale variations in hydrography correlate with variability in total solar irradiance. We find a similar correlation in a simulation of climate over the past 1,000 years. We infer that the hydrographic changes probably reflect variability in the strength of the subpolar gyre associated with changes in atmospheric circulation. Specifically, in the simulation, low solar irradiance promotes the development of frequent and persistent atmospheric blocking events, in which a quasi-stationary high-pressure system in the eastern North Atlantic modifies the flow of the westerly winds. We conclude that this process could have contributed to the consecutive cold winters documented in Europe during the Little Ice Age.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  UK National Environmental Research Council (NERC)
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Climate Change Consortium of Wales
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: European Commission under the Marie Curie Intra-European Fellowship ECLIPS
+#    Grant: PIEF-GA-2011-300544
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: US National Science Foundation
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Centre for Excellence in Research: Climate of the Swiss National Science 
+#    Grant: 
+#---------------------------------------
+# Site Information
+# Site_Name: RAPiD-17-5P
+# Location: North Atlantic Ocean
+# Country: 
+# Northernmost_Latitude: 61.481667
+# Southernmost_Latitude: 61.481667
+# Easternmost_Longitude: -19.536
+# Westernmost_Longitude: -19.536
+# Elevation: -2303
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: RAPiD-17-5P NGS Moffa14
+#   First_Year: 818
+#   Last_Year: 1794
+#   Time_Unit: years AD
+#   Core_Length: 10
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+#   Chronology: 
+# 
+# Labcode 	sample identification used by 14C laboratory 	
+# depth	Depth of sample interval (cm)	
+# mat.dated 	Material Dated	
+# 14C.raw	conventional radiocarbon age, years before 1950AD  	
+# 14C.raw_err 	radiocarbon age, standard error 	
+# datemeth  	Dating method	
+# reservoir 	Reservoir correction	
+# calib.14C  	Calibrated age (years AD)	
+# calib.14C_2sig_lo	Calibrated age, 1-sigma lower confidence bound  (years AD) 	
+# calib.14C_2sig_up	Calibrated age, 1-sigma upper confidence bound   	 (years AD)	
+# 
+# Labcode	depth	mat.dated	14C.raw	14C.raw_err	datemeth	reservoir	calib.14C  	calib.14C_2sig_lo	calib.14C_2sig_up	
+# SUERC-15709	0.5	Glob. bulloides (>250µm) 	591	35	14C AMS	Marine09	1896	1572	1727	
+# SUERC-46869	16.5	Glob. bulloides (>250µm) 	744	37	14C AMS	Marine09	1673	1464	1565	
+# SUERC-35766	34.5	Glob. bulloides (>250µm) 	874	35	14C AMS	Marine09	1588	1346	1456	
+# SUERC-46870	47	Glob. bulloides (>250µm) 	1156	37	14C AMS	Marine09	1341	1094	1241	
+# SUERC-35769	67.25	Glob. bulloides (>250µm) 	14167	37	14C AMS	Marine09	1134	829	982	
+# SUERC-46871	78.5	Glob. bulloides (>250µm) 	1543	37	14C AMS	Marine09	996	712	850	
+# SUERC-15710	96.5	Glob. bulloides (>250µm) 	1738	37	14C AMS	Marine09	782	529	660	
+# SUERC-46872	125	Glob. bulloides (>250µm) 	2206	37	14C AMS	Marine09	311	-6	146	
+# SUERC-46876	149	Glob. bulloides (>250µm) 	2406	37	14C AMS	Marine09	64	-289	-91	
+# SUERC-15713	200.5	Glob. bulloides (>250µm) 	2852	37	14C AMS	Marine09	-444	-785	-653	
+# SUERC-46877	248	Glob. bulloides (>250µm) 	3258	37	14C AMS	Marine09	-1011	-1260	-1138	
+# SUERC-14101	750.5	Glob. bulloides (>250µm) 	8823	35	14C AMS	Marine09	-7472	-7590	-7535	
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## depth_mm	depth,,,mm ,,,,,N
+## age_AD	age,,,years AD,,,,,N
+## d18Og.infla	delta 18O,Globorotalia inflata,,per mil PDB,,Foraminifera,,analytical technique: isotope ratio mass spectrometry,N
+## Mg/Ca-g.infla	Magnesium/Calcium,Globorotalia inflata,,mmol/mol,,Foraminifera,,analytical technique: inductively coupled plasma mass spectrometry,N
+## sst-Mg/Ca-g.infla	temperature,sea surface,,degrees Celsius,,climate reconstruction,,using Thornalley et al.(2009),N
+## d18Osw-g.infla	delta 18O seawater,,,per mil SMOW,,climate reconstruction,,using G. inflata,N
+## sal-g.infla	salinity,,,psu,,climate reconstruction,,using G. inflata,N
+#------------------------
+# Data
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Value: -999
+depth_mm	age_AD	d18Og.infla	Mg/Ca-g.infla	sst-Mg/Ca-g.infla	d18Osw-g.infla	sal-g.infla	
+1.25	1793.38	1.86	-999	-999	-999	-999	
+1.75	1787.17	1.79	1.24	6.09	-0.12	34.38	
+2.25	1780.96	1.97	1.17	5.49	-0.16	34.22	
+2.75	1774.76	1.99	1.24	6.06	-0.01	34.50	
+3.25	1768.55	2.01	-999	-999	-999	-999	
+3.75	1762.34	2.10	1.19	5.63	0.00	34.52	
+4.25	1756.13	1.98	2.19	11.77	1.30	36.88	
+4.75	1749.92	1.93	1.64	8.86	0.59	35.58	
+5.25	1743.72	1.87	1.45	7.62	0.24	34.94	
+5.75	1737.51	2.02	1.51	8.02	0.49	35.40	
+6.25	1731.30	1.95	1.25	6.19	-0.01	34.49	
+6.75	1725.09	2.13	1.24	6.09	0.14	34.76	
+7.25	1718.88	1.78	1.23	6.00	-0.23	34.09	
+7.75	1712.68	1.91	1.40	7.28	0.20	34.88	
+8.25	1706.47	2.09	-999	-999	-999	-999	
+8.75	1700.26	1.89	1.24	6.07	-0.10	34.32	
+9.25	1694.05	2.09	1.19	5.63	0.00	34.50	
+9.75	1687.84	2.20	1.57	8.46	0.77	35.90	
+10.25	1681.64	2.05	1.37	7.09	0.30	35.06	
+10.75	1675.43	1.97	1.30	6.55	0.09	34.68	
+11.25	1669.22	2.01	1.25	6.14	0.04	34.58	
+11.75	1663.01	1.84	1.44	7.56	0.20	34.87	
+12.25	1656.80	-999	1.66	8.99	-999	-999	
+12.75	1650.60	1.98	-999	-999	-999	-999	
+13.25	1644.39	1.91	1.67	9.03	0.61	35.61	
+13.75	1638.18	1.93	1.29	6.45	0.03	34.56	
+14.25	1631.97	1.85	1.30	6.59	-0.02	34.48	
+14.75	1625.76	1.89	1.36	6.97	0.11	34.71	
+15.25	1619.56	1.83	1.32	6.74	0.00	34.51	
+15.75	1613.35	2.08	1.56	8.40	0.63	35.66	
+16.25	1607.14	1.97	1.38	7.13	0.22	34.92	
+16.75	1600.93	1.94	1.45	7.64	0.32	35.09	
+17.25	1594.72	1.99	1.53	8.16	0.49	35.39	
+17.75	1588.52	1.94	1.69	9.16	0.67	35.73	
+18.25	1582.31	2.03	1.32	6.73	0.19	34.86	
+18.75	1576.10	1.88	1.33	6.77	0.05	34.61	
+19.25	1569.89	2.11	1.45	7.66	0.49	35.40	
+19.75	1563.68	-999	1.43	7.48	-999	-999	
+20.25	1557.48	1.88	1.28	6.42	-0.03	34.46	
+20.75	1551.27	1.86	1.60	8.63	0.47	35.36	
+21.25	1545.06	2.05	-999	-999	-999	-999	
+21.75	1538.85	1.93	1.28	6.42	0.02	34.55	
+22.25	1532.64	1.95	1.50	7.98	0.40	35.24	
+22.75	1526.44	2.00	1.09	4.78	-0.30	33.97	
+23.25	1520.23	1.83	1.41	7.40	0.15	34.79	
+23.75	1514.02	2.01	-999	-999	-999	-999	
+24.25	1507.81	1.80	-999	-999	-999	-999	
+24.5	1504.71	-999	1.04	-999	-999	-999	
+24.75	1501.60	2.03	1.34	6.85	0.23	34.92	
+25.25	1495.40	1.95	1.26	6.27	0.00	34.52	
+25.75	1489.19	1.98	1.14	5.20	-0.22	34.10	
+26.25	1482.98	2.12	1.23	6.01	0.12	34.72	
+26.75	1476.77	2.01	1.28	6.44	0.11	34.71	
+27.25	1470.56	1.94	-999	-999	-999	-999	
+27.75	1464.36	1.95	1.22	5.91	-0.08	34.37	
+28.25	1458.15	1.94	1.60	8.64	0.55	35.52	
+28.75	1451.94	2.00	1.60	8.62	0.60	35.60	
+29.25	1445.73	1.89	1.53	8.17	0.39	35.21	
+29.75	1439.52	1.99	1.80	9.83	0.87	36.10	
+30.25	1433.32	1.92	-999	-999	-999	-999	
+30.75	1427.11	1.94	1.30	6.57	0.07	34.63	
+31.25	1420.90	1.79	1.68	9.11	0.51	35.44	
+31.75	1414.69	1.81	1.41	7.34	0.11	34.72	
+32.25	1408.48	2.04	1.32	6.73	0.20	34.88	
+32.75	1402.28	1.92	-999	-999	-999	-999	
+33.25	1396.07	1.71	1.82	9.94	0.62	35.64	
+33.75	1389.86	1.98	1.61	8.71	0.61	35.62	
+34.25	1383.65	1.89	1.50	7.99	0.35	35.14	
+34.75	1377.44	1.99	1.59	8.54	0.58	35.55	
+35.25	1371.24	2.14	1.47	7.80	0.56	35.52	
+35.75	1365.03	1.89	1.57	8.46	0.46	35.35	
+36.25	1358.82	2.00	1.66	9.01	0.70	35.78	
+36.75	1352.61	1.79	1.55	8.30	0.32	35.10	
+37.25	1346.40	2.07	1.32	6.73	0.24	34.94	
+37.75	1340.20	1.88	1.19	5.69	-0.20	34.15	
+38.25	1333.99	1.94	1.35	6.95	0.16	34.80	
+38.75	1327.78	2.09	1.21	5.83	0.04	34.58	
+39.25	1321.57	1.98	1.65	8.92	0.65	35.69	
+39.75	1315.36	1.94	1.30	6.58	0.07	34.63	
+40.25	1309.16	1.88	1.24	6.08	-0.11	34.31	
+40.75	1302.95	2.16	1.55	8.33	0.70	35.78	
+41.25	1296.74	1.87	1.28	6.38	-0.05	34.42	
+41.75	1290.53	1.91	1.32	6.67	0.06	34.61	
+42.25	1284.32	1.90	1.35	6.90	0.10	34.70	
+42.75	1278.12	1.89	1.52	8.13	0.38	35.20	
+43.25	1271.91	2.05	1.25	6.13	0.07	34.63	
+43.75	1265.70	1.86	1.26	6.21	-0.09	34.34	
+44.25	1259.49	1.93	1.46	7.71	0.33	35.10	
+44.75	1253.28	1.97	1.32	6.69	0.12	34.73	
+45.25	1247.08	1.81	1.60	8.64	0.42	35.27	
+45.75	1240.87	1.80	1.37	7.08	0.04	34.59	
+46.25	1234.66	1.93	1.41	7.39	0.25	34.96	
+46.75	1228.45	1.74	1.65	8.95	0.42	35.27	
+47.25	1222.24	1.95	1.58	8.49	0.53	35.46	
+47.75	1216.04	1.81	1.41	7.39	0.13	34.74	
+48.25	1209.83	1.72	1.59	8.54	0.31	35.06	
+48.75	1203.62	2.04	1.54	8.26	0.56	35.52	
+49.25	1197.41	1.87	1.41	7.35	0.18	34.84	
+49.75	1191.20	1.96	1.48	7.87	0.39	35.21	
+50.25	1185.00	1.82	-999	-999	-999	-999	
+50.75	1178.79	1.91	1.40	7.31	0.21	34.90	
+51.25	1172.58	2.09	1.68	9.09	0.80	35.96	
+51.75	1166.37	1.88	1.43	7.54	0.24	34.94	
+52.25	1160.16	2.01	1.54	8.25	0.53	35.46	
+52.75	1153.96	-999	1.39	7.21	-999	-999	
+53.25	1147.75	1.94	1.21	5.85	-0.10	34.32	
+53.75	1141.54	1.99	1.29	6.45	0.09	34.68	
+54.25	1135.33	1.98	1.86	10.15	0.94	36.21	
+54.75	1129.12	1.90	1.26	6.25	-0.04	34.43	
+55.25	1122.92	1.75	1.34	6.88	-0.05	34.41	
+55.75	1116.71	1.78	1.20	5.77	-0.28	34.00	
+56.25	1110.50	2.02	1.97	10.73	1.10	36.52	
+56.75	1104.29	1.73	1.57	8.41	0.28	35.03	
+57.25	1098.08	1.90	1.43	7.53	0.26	34.97	
+57.75	1091.88	1.80	-999	-999	-999	-999	
+58.25	1085.67	1.79	1.52	8.09	0.27	35.00	
+58.75	1079.46	1.83	1.33	6.79	0.01	34.53	
+59.25	1073.25	1.93	1.44	7.61	0.30	35.05	
+59.75	1067.04	1.87	1.66	9.00	0.56	35.53	
+60.25	1060.84	1.78	1.59	8.55	0.37	35.17	
+60.75	1054.63	2.06	1.60	8.61	0.66	35.71	
+61.25	1048.42	2.02	1.31	6.65	0.17	34.81	
+61.75	1042.21	1.89	1.41	7.37	0.21	34.88	
+62.25	1036.00	1.88	1.62	8.76	0.52	35.45	
+62.75	1029.80	1.90	1.33	6.81	0.09	34.67	
+63.25	1023.59	1.81	1.29	6.47	-0.09	34.35	
+63.75	1017.38	1.89	1.34	6.86	0.09	34.67	
+64.25	1011.17	1.83	1.29	6.46	-0.07	34.38	
+64.75	1004.96	1.80	1.45	7.65	0.18	34.83	
+65.25	998.76	1.76	1.53	8.20	0.27	34.99	
+65.75	992.55	1.82	1.51	8.04	0.29	35.04	
+66.25	986.34	1.93	1.28	6.42	0.03	34.56	
+66.75	980.13	1.86	1.63	8.81	0.51	35.43	
+67.25	973.92	1.90	1.49	7.93	0.35	35.14	
+67.75	967.72	-999	1.48	7.87	-999	-999	
+68.25	961.51	1.92	1.48	7.84	0.34	35.13	
+68.75	955.30	1.80	1.88	10.25	0.78	35.93	
+69.25	949.09	1.73	1.67	9.08	0.44	35.31	
+69.75	942.88	1.75	1.54	8.26	0.27	35.01	
+70.25	936.68	1.78	1.38	7.14	0.04	34.58	
+70.75	930.47	1.95	1.40	7.27	0.24	34.95	
+71.25	924.26	1.92	1.52	8.09	0.40	35.24	
+71.75	918.05	1.77	1.42	7.40	0.09	34.67	
+72.25	911.84	1.80	1.52	8.09	0.29	35.03	
+72.75	905.64	2.08	1.58	8.52	0.66	35.71	
+73.25	899.43	1.74	1.58	8.51	0.32	35.09	
+73.75	893.22	1.72	1.51	8.08	0.20	34.87	
+74.25	887.01	1.75	1.67	9.08	0.47	35.35	
+74.75	880.80	1.87	1.58	8.52	0.45	35.33	
+75.25	874.60	1.79	1.66	9.02	0.48	35.38	
+75.75	868.39	1.71	1.58	8.48	0.29	35.03	
+76.25	862.18	1.67	1.75	9.55	0.49	35.40	
+76.75	855.97	1.74	1.72	9.37	0.52	35.45	
+77.25	849.76	1.84	1.76	9.59	0.67	35.72	
+77.75	843.56	1.61	1.74	9.48	0.41	35.26	
+78.25	837.35	1.74	1.66	9.00	0.43	35.28	
+78.75	831.14	1.77	1.50	8.01	0.23	34.93	
+79.25	824.93	1.82	1.51	8.07	0.30	35.05	
+79.75	818.72	-999	1.44	7.60	-999	-999	

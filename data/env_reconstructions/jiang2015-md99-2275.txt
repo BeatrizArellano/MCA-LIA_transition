@@ -1,0 +1,456 @@
+# Northern North Atlantic Holocene Summer Sea-Surface Temperatures Reconstruction
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: http://www.ncdc.noaa.gov/paleo/study/17635
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/jiang2015/jiang2015-md99-2275.txt
+#
+# Archive: Paleoceanography
+#---------------------------------------
+# Contribution_Date
+#    Date: 2014-12-29
+#---------------------------------------
+# Title
+#    Study_Name: Northern North Atlantic Holocene Summer Sea-Surface Temperatures Reconstruction
+#---------------------------------------
+# Investigators
+#      Investigators: Jiang, H.; Muscheler, R.; Björck, S.; Seidenkrantz, M.-S.; Olsen, J.; Sha, L.; Sjolte, J.; Eiríksson, J.; Ran, L.; Knudsen, K.-L.; Knudsen, M.F.
+#---------------------------------------
+# Description and Notes
+#        Description: A subdecadal (youngest part of record) to multi-decadal (oldest part of record) resolution time series of sea surface temperature (SST) spanning the last 9300 years is reconstructed by using diatom-based transfer function on data from core MD99-2275, north of Iceland.
+#          Provided Keywords: Diatom tranfer function - based SST for last 9300 years, shifts between cold and waer SST strongly correlated to solar forcing during last 4000 years, North Atlantic, North Iceland shelf, Irminger Current, age model based on 15 independantly-dated tephra horizons
+#---------------------------------------
+# Publication
+# Authors: Jiang, H., Muscheler, R., Björck, S., Seidenkrantz, M.-S., Olsen, J., Sha, L., Sjolte, J., Eiríksson, J., Ran, L., Knudsen, K.L., and Knudsen, M.F.
+# Published_Date_or_Year: 2015
+# Published_Title: Solar forcing of Holocene summer sea-surface temperatures in the northern North Atlantic
+# Journal_Name: Geology
+# Volume: in press
+# Issue: 
+# Pages: 
+# Report Number: 
+# DOI: 10.1130/G36377.1
+# Abstract: Mounting evidence from proxy records suggests that variations in solar activity have played a significant role in triggering past climate changes. However, the mechanisms for Sun-climate linkages remain a topic of debate. Here we present a high-resolution summer sea-surface temperature (SST) record covering the last 9300 yr from a site located at the present-day boundary between Polar and Atlantic surface-water masses. The record is age-constrained via the identification of 15 independently-dated tephra markers from terrestrial archives, circumventing marine reservoir age variability problems. Our results indicate a close link between solar activity and SSTs in the northern North Atlantic during the past 4000 years. They suggest that the climate system in this area is more susceptible to the influence of solar variations during cool periods with less vigorous ocean circulation. Furthermore, the high-resolution SST record indicates that climate in the North Atlantic regions follows solar activity variations on multi-decadal to centennial time scales.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation of China
+#    Grant: 41176048, 41406209
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  State Oceanic Administration
+#    Grant: CHINARE2015-03-02
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  Danish Council for Independent Research - Natural Sciences
+#    Grant: 09-072321, 12-126709
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  Royal Swedish Academy of Sciences
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  Swedish Research Council
+#    Grant: 2013-8421
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name:  European Union’s Seventh Framework programme
+#    Grant: 243908
+#---------------------------------------
+# Site Information
+# Site_Name: MD99-2275
+# Location: North Iceland shelf, North Atlantic / Nordic Seas
+# Country: Iceland
+# Northernmost_Latitude: 66.55
+# Southernmost_Latitude: 66.55
+# Easternmost_Longitude: -17.42
+# Westernmost_Longitude: -17.42
+# Elevation: -470
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: MD99-2275 DiatomSST Jiang15
+#   First_Year: 9271
+#   Last_Year: 75
+#   Time_Unit: cal yr BP
+#   Core_Length: 2062.5
+#   Notes: Record length given, not total core length. SST reference period: 1981-1986 A.D.
+#---------------------------------------
+# Chronology: 
+# Age model is based on tephrachronology. Many 14C dates also exist (see below), but are no longer used in the age models from this site.
+# Two tables are given: 1) only tephra ages; 2) all dates including both tephra ages and 14C dates.  
+# Lab ID  sample identification used by 14C laboratory (POZ: Poznan Radiocarbon Laboratory, Poznan, Poland; CAMS  Lawrence Livermore National Laboratory’s Center for Accelerator Mass Spectrometry, Livermore, USA)  
+# Dated material  dated material  
+# Tephra age (bp)   age of tephra layer, years before 1950AD  
+# calibrated age (bp)   corresponding calibated age, years before 1950AD    
+# depth (mm)   Depth at the middle of the sample (mm)  
+# notes  notes  
+# 
+# Tephra ages  NaN  
+# Lab ID  Dated material  depth_bot (mm)    depth_top (mm)   Tephra age /ears BP)  calibrated age (cal BP)   depth (mm)   
+# NA  Tephra V 1797  NA  NA  153  153  600  
+# NA  Tephra V 1717  NA  NA  233  233  1010  
+# NA  Tephra V 1477  NA  NA  473  473  1790  
+# NA  Tephra V 1410  NA  NA  540  540  2090  
+# NA  Tephra Hekla 1300   NA  NA  650  650  2390  
+# NA  Tephra Hekla 1104  NA  NA  846  846  2760  
+# NA  Tephra Settlement layer  NA  NA  1079  1079  3210  
+# NA  Tephra: Snæfellsjökull-1  NA  NA  1818  1818  4600  
+# NA  Tephra Hekla 3  NA  NA  2980  2980  6870  
+# NA  Tephra Hekla 5  NA  NA  7125  7125  15520  
+# NA  Saksunarvatn ash  NA  NA  10300  10300  25600  
+# NA  Vedde Ash  NA  NA  12000  12000  34070  
+# 
+# Full list of chronological data based on the C-14 dates and tephras.  NaN  NaN  NaN  NaN  NaN  NaN  
+# Lab ID  Dated material  Tephra age /ears BP)   age14C (bp)    age_error (years)   calibrated age (cal BP)   cal_age_range_old (bp)    cal_age_range_young (bp)    depth (mm)   
+# 
+# AAR-8418  Thyasira equalis  NA  745  60  380  450  310  25  
+# AAR-9808  Bathyarca glacialis  NA  491  34  75  150  0  75  
+# AAR-9809  Thyasira equalis  NA  666  41  317  370  265  225  
+# AAR-7702  Siphodentalium lobatum   NA  475  36  62  125  0  345  
+# 
+# AAR-7116  Thyasira equalis  NA  695  45  345  400  290  635  
+# AAR-7117  Thyasira cf. equalis  NA  785  40  435  485  385  1005  
+# 
+# AAR-6089  Siphonodentalium lobatum  NA  895  45  505  540  470  1225  
+# AAR-7118  Thyasira cf. equalis  NA  815  45  457  500  415  1330  
+# AAR-7119  Nuculana sp.  NA  945  35  547  595  500  1625  
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## depth_cm  Depth,,,cm,,,,,N
+## age_calyrBP  age,,,calendar years before 1950,,,,,N
+## SST-DTF sea-surface temperature,diatoms,,degrees C,,Paleoceanography,,analytical technique: tranfer function (WAPLS) using diatom assemblages,N
+# Data
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Value: NA
+depth_cm	age_calyrBP	SST-DTF
+0.5	75	6.5	
+2.5	77	6.7	
+5.5	81	7.1	
+7.5	84	7.4	
+10.5	88	6.3	
+12.5	90	6.7	
+15.5	94	6.3	
+17.5	97	7.4	
+20.5	101	6.4	
+22.5	103	6.7	
+25.5	107	7.1	
+27.5	110	6.9	
+30.5	114	7.2	
+32.5	117	7.1	
+35.5	120	7.1	
+37.5	123	6.8	
+40.5	127	5.8	
+42.5	130	6.7	
+45.5	133	6.5	
+47.5	136	7.1	
+50.5	140	6.5	
+52.5	143	7	
+55.5	147	7	
+57.5	149	7.3	
+60.5	153	6.8	
+62.5	157	7	
+65.5	163	6.8	
+67.5	167	7.2	
+70.5	173	6.3	
+72.5	177	6.9	
+75.5	183	7.3	
+77.5	187	6.8	
+80.5	193	7.2	
+82.5	196	7.1	
+85.5	202	7.2	
+87.5	206	7.1	
+90.5	212	6.9	
+92.5	216	7.2	
+95.5	222	8	
+97.5	226	7.2	
+100.5	232	7.3	
+102.5	238	7.2	
+105.5	247	6.6	
+107.5	253	7.3	
+110.5	262	7.3	
+112.5	268	7	
+115.5	277	7.1	
+117.5	283	6.5	
+120.5	292	6.9	
+122.5	298	6.8	
+125.5	307	6.6	
+127.5	314	6.9	
+130.5	323	6.6	
+132.5	329	6.8	
+135.5	338	6.9	
+137.5	344	7.1	
+140.5	353	7	
+142.5	359	7.4	
+145.5	368	7.2	
+147.5	374	7.3	
+150.5	383	6.9	
+152.5	389	6.5	
+155.5	399	6.9	
+157.5	405	7.5	
+160.5	414	7.1	
+162.5	420	6.7	
+165.5	429	6.6	
+167.5	435	6.8	
+170.5	444	6.8	
+172.5	450	6.8	
+175.5	459	6.2	
+177.5	465	7.3	
+180.5	474	7	
+182.5	478	6.9	
+185.5	486	6.4	
+187.5	490	6.7	
+190.5	498	7.3	
+192.5	502	7.5	
+195.5	510	7	
+197.5	515	6.6	
+200.5	522	7	
+202.5	527	6.8	
+205.5	534	6.6	
+207.5	539	6.7	
+210.5	548	6.9	
+212.5	555	6.7	
+215.5	566	7	
+217.5	573	7.5	
+220.5	584	6.1	
+222.5	591	7.3	
+225.5	601	6.8	
+227.5	609	7.2	
+230.5	620	6.3	
+232.5	627	7	
+235.5	637	7.1	
+237.5	645	8	
+240.5	658	7.3	
+242.5	669	7.3	
+245.5	685	7.2	
+247.5	696	7.3	
+250.5	712	7.7	
+252.5	722	7.6	
+255.5	739	7.7	
+257.5	749	7.8	
+260.5	765	7.6	
+262.5	776	8.2	
+265.5	792	7.4	
+267.5	803	7.5	
+270.5	819	7.2	
+272.5	830	8	
+275.5	846	6.9	
+277.5	853	7.6	
+280.5	863	7.7	
+282.5	870	7.5	
+285.5	881	6.9	
+287.5	888	7.8	
+290.5	898	7.3	
+292.5	905	8	
+295.5	916	7.6	
+297.5	923	8.1	
+300.5	935	7.6	
+302.5	949	7.2	
+305.5	970	7.3	
+307.5	985	7.2	
+310.5	1006	8.1	
+315.5	1041	7.4	
+319.5	1069	6.7	
+322.5	1088	7.6	
+327.5	1113	8.1	
+332.5	1139	7.2	
+337.5	1164	7.2	
+342.5	1190	7.6	
+347.5	1215	7.7	
+352.5	1241	7.4	
+357.5	1266	7.3	
+362.5	1292	7.3	
+367.5	1318	7.8	
+372.5	1343	8.2	
+377.5	1369	7.7	
+382.5	1394	7.9	
+387.5	1420	7.6	
+392.5	1446	7.9	
+397.5	1471	8.3	
+402.5	1497	7.9	
+407.5	1522	7.3	
+412.5	1548	8	
+417.5	1573	8.2	
+422.5	1599	8	
+427.5	1624	8	
+432.5	1650	7.4	
+437.5	1676	7.2	
+442.5	1701	7.5	
+447.5	1727	7.9	
+452.5	1752	8.1	
+457.5	1778	8	
+462.5	1804	7.6	
+467.5	1830	7.6	
+472.5	1856	7.5	
+477.5	1883	8.4	
+482.5	1909	8	
+487.5	1935	7.7	
+492.5	1961	7.6	
+497.5	1988	7.3	
+502.5	2014	7.7	
+512.5	2066	7.8	
+522.5	2118	8.2	
+532.5	2171	8.7	
+542.5	2223	9.3	
+552.5	2276	7.6	
+562.5	2328	8.2	
+572.5	2380	7.6	
+582.5	2433	8	
+592.5	2486	7.6	
+602.5	2538	8.5	
+612.5	2590	8.2	
+622.5	2643	7.4	
+632.5	2695	7.3	
+642.5	2748	7.6	
+652.5	2800	7.8	
+662.5	2852	8.5	
+672.5	2905	7.9	
+682.5	2958	7.9	
+692.5	3008	8.8	
+702.5	3056	8.3	
+712.5	3103	8.3	
+722.5	3152	8.7	
+732.5	3200	7.6	
+742.5	3248	8.1	
+752.5	3296	7.7	
+762.5	3344	7.9	
+772.5	3392	7.6	
+782.5	3440	8.5	
+792.5	3488	8.3	
+802.5	3536	8.4	
+812.5	3584	8	
+822.5	3632	8.5	
+832.5	3680	7.6	
+842.5	3729	8.2	
+852.5	3776	7.9	
+862.5	3825	8.7	
+872.5	3873	8.1	
+882.5	3921	7.8	
+892.5	3969	7.9	
+903.5	4022	7.8	
+912.5	4065	8.3	
+923.5	4118	7.6	
+932.5	4161	7.9	
+943.5	4214	8.4	
+952.5	4260	7.6	
+962.5	4312	8.8	
+972.5	4363	8.3	
+982.5	4414	8.3	
+992.5	4465	7.8	
+1002.5	4516	8.8	
+1012.5	4567	8.4	
+1022.5	4618	8.2	
+1032.5	4670	8.3	
+1042.5	4721	8.8	
+1052.5	4772	8	
+1062.5	4823	8.1	
+1072.5	4874	7.7	
+1082.5	4925	8.5	
+1092.5	4977	7.5	
+1102.5	5028	7.7	
+1112.5	5079	8.2	
+1122.5	5130	7.4	
+1132.5	5181	8.1	
+1142.5	5233	8.8	
+1152.5	5284	8.5	
+1162.5	5335	7.7	
+1172.5	5386	8.5	
+1182.5	5437	8.1	
+1192.5	5485	8.1	
+1202.5	5528	8.7	
+1212.5	5572	8.1	
+1222.5	5616	8.5	
+1232.5	5660	7.9	
+1242.5	5703	8.2	
+1252.5	5747	8.2	
+1262.5	5791	8.9	
+1272.5	5835	8.9	
+1282.5	5878	9.1	
+1292.5	5922	9	
+1302.5	5966	8.8	
+1312.5	6010	8.1	
+1322.5	6053	8.4	
+1332.5	6094	8.1	
+1342.5	6134	8.3	
+1352.5	6175	8.1	
+1362.5	6215	8.5	
+1372.5	6256	8.5	
+1382.5	6296	8.7	
+1392.5	6336	8.7	
+1402.5	6377	8.4	
+1412.5	6417	8.8	
+1422.5	6457	8.8	
+1432.5	6498	8.4	
+1442.5	6538	8.5	
+1452.5	6579	8.2	
+1462.5	6619	8.6	
+1472.5	6662	9	
+1482.5	6705	8.7	
+1492.5	6748	9.5	
+1502.5	6791	8.6	
+1512.5	6834	8.8	
+1522.5	6877	8.7	
+1532.5	6920	8.2	
+1542.5	6964	9.1	
+1552.5	7008	8.9	
+1562.5	7050	9.2	
+1572.5	7094	8.9	
+1582.5	7138	9.4	
+1592.5	7181	8.9	
+1602.5	7225	8.5	
+1612.5	7269	9.2	
+1622.5	7312	9.9	
+1632.5	7356	9.3	
+1642.5	7400	9	
+1652.5	7443	9.5	
+1662.5	7487	9.7	
+1672.5	7530	9.9	
+1682.5	7574	9.9	
+1692.5	7618	9.4	
+1702.5	7662	9.1	
+1712.5	7705	9.5	
+1722.5	7749	9.8	
+1732.5	7792	9.5	
+1742.5	7836	9.7	
+1752.5	7880	9	
+1762.5	7923	9.6	
+1772.5	7967	9.2	
+1782.5	8011	9.1	
+1792.5	8054	9.2	
+1802.5	8098	9.8	
+1812.5	8143	8.2	
+1822.5	8188	8	
+1832.5	8233	8.3	
+1842.5	8278	8.8	
+1852.5	8324	8.6	
+1862.5	8369	8.2	
+1872.5	8414	8.6	
+1882.5	8459	9.6	
+1892.5	8504	8.2	
+1902.5	8549	8.6	
+1912.5	8594	8.7	
+1922.5	8639	8.1	
+1932.5	8685	8.9	
+1942.5	8730	8.6	
+1952.5	8775	8.7	
+1962.5	8820	8.3	
+1972.5	8865	8.4	
+1982.5	8910	8.5	
+1992.5	8956	9	
+2002.5	9001	8.6	
+2012.5	9046	7.9	
+2022.5	9091	8.7	
+2032.5	9136	9.2	
+2042.5	9181	8.6	
+2052.5	9226	8.3	
+2062.5	9271	8.9	

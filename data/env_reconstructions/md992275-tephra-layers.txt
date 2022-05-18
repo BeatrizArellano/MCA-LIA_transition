@@ -1,0 +1,24 @@
+# Chronology: 
+# Age model is based on tephrachronology. Many 14C dates also exist (see below), but are no longer used in the age models from this site.
+# Two tables are given: 1) only tephra ages; 2) all dates including both tephra ages and 14C dates.  
+# Lab ID  sample identification used by 14C laboratory (POZ: Poznan Radiocarbon Laboratory, Poznan, Poland; CAMS  Lawrence Livermore National Laboratorys Center for Accelerator Mass Spectrometry, Livermore, USA)  
+# Dated material  dated material  
+# Tephra age (bp)   age of tephra layer, years before 1950AD  
+# calibrated age (bp)   corresponding calibated age, years before 1950AD    
+# depth (mm)   Depth at the middle of the sample (mm)  
+# notes  notes  
+# 
+
+ Lab-ID  Dated-material  depth_bot-(mm)    depth_top-(mm)   Tephra-age-(years-BP)  calibrated-age-(cal-BP)   depth-(mm)   
+ NA  Tephra-V-1797  NA  NA  153  153  600  
+ NA  Tephra-V-1717  NA  NA  233  233  1010  
+ NA  Tephra-V-1477  NA  NA  473  473  1790  
+ NA  Tephra-V-1410  NA  NA  540  540  2090  
+ NA  Tephra-Hekla-1300   NA  NA  650  650  2390  
+ NA  Tephra-Hekla-1104  NA  NA  846  846  2760  
+ NA  Tephra-Settlement-layer  NA  NA  1079  1079  3210  
+ NA  Tephra-Snæfellsjökull-1  NA  NA  1818  1818  4600  
+ NA  Tephra-Hekla-3  NA  NA  2980  2980  6870  
+ NA  Tephra-Hekla-5  NA  NA  7125  7125  15520  
+ NA  Saksunarvatn-ash  NA  NA  10300  10300  25600  
+ NA  Vedde-Ash  NA  NA  12000  12000  34070  

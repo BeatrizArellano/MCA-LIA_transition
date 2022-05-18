@@ -1,0 +1,132 @@
+North Icelandic Shelf 1350 Year Molusc Radiocarbon Data 
+----------------------------------------------------------------------- 
+               World Data Center for Paleoclimatology, Boulder 
+                                  and 
+                     NOAA Paleoclimatology Program 
+----------------------------------------------------------------------- 
+NOTE: Please cite original reference when using these data, 
+plus the data file URL and date accessed. 
+
+NAME OF DATA SET: North Icelandic Shelf 1350 Year Molusc Radiocarbon Data 
+LAST UPDATE: 6/2012 (Original receipt by WDC Paleo) 
+CONTRIBUTORS: Wanamaker, A.D., P.G. Butler, J.D. Scourse, 
+J. Heinemeier, J. Eiríksson, K.L. Knudsen, and C.A. Richardson. 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2012-084 
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Wanamaker, A.D., et al. 2012. 
+North Icelandic Shelf 1350 Year Molusc Radiocarbon Data. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2012-084. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+
+ORIGINAL REFERENCE: 
+Wanamaker, A.D., P.G. Butler, J.D. Scourse, J. Heinemeier, 
+J. Eiríksson, K.L. Knudsen, and C.A. Richardson. 2012. 
+Surface changes in the North Atlantic meridional overturning 
+circulation during the last millennium. 
+Nature Communications, Published 12 Jun 2012. 
+DOI: 10.1038/ncomms1901 
+
+ABSTRACT: 
+Despite numerous investigations, the dynamical origins of the Medieval 
+Climate Anomaly and the Little Ice Age remain uncertain. A major 
+unresolved issue relating to internal climate dynamics is the mode 
+and tempo of Atlantic meridional overturning circulation variability, 
+and the significance of decadal-to-centennial scale changes in Atlantic 
+meridional overturning circulation strength in regulating the climate 
+of the last millennium. Here we use the time-constrained high-resolution 
+local radiocarbon reservoir age offset derived from an absolutely dated 
+annually resolved shell chronology spanning the past 1,350 years, 
+to reconstruct changes in surface ocean circulation and climate. 
+The water mass tracer data presented here from the North Icelandic 
+shelf, combined with previously published data from the Arctic 
+and subtropical Atlantic, show that surface Atlantic meridional 
+overturning circulation dynamics likely amplified the relatively warm 
+conditions during the Medieval Climate Anomaly and the relatively cool 
+conditions during the Little Ice Age within the North Atlantic sector. 
+
+
+
+
+GEOGRAPHIC REGION: North Atlantic 
+PERIOD OF RECORD: 675 - 1950 AD 
+
+FUNDING SOURCES:
+EU funded Millennium project (017008) 
+
+
+DATA FILE URLS: 
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/wanamaker2012/wanamaker2012.txt 
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/wanamaker2012/wanamaker2012.xls 
+
+
+
+DESCRIPTION: 
+Radiocarbon content of shells of the long-lived marine bivalve 
+Arctica islandica collected on the North Icelandic shelf. 
+The shells were absolutely dated using crossdating techniques 
+derived from dendrochronology, and provide a 1350-year record 
+of water mass migration and strength of the Atlantic meridional 
+overturning circulation. 
+
+Shells were collected near the island of Grimsey, North Icelandic 
+Shelf, at a water depth of 81-83 m from the RV Bjarni Saemundsson 
+(Cruise No. B05-2006, trawl B05AD03). 
+
+Trawl B05AD03: 66°31.59'N, 18°11.74'W, ~82m water depth. 
+
+
+
+
+DATA: 
+Wanamaker et al. 2012 Supplementary Data 1 
+Isotope per mil VPDB 
+Sample Integration (± yrs)
+
+Laboratory   SampleID       Site   ScleroAge   14Cage    14C   Marine09  Marine09  Sample     DR      DR      d13C     d18O 
+Code                                 YearAD    YrBP      Err±  14CageBP    Err±    Int.Yrs±          Err±     ±0.05    <±0.10
+AAR-12978    061664_1    Iceland       675     1759       37     1720       26     < 5        39     45.2     2.62     2.83
+AAR-12979    061664_2    Iceland       705     1703       27     1670       26     < 5        33     37.5     2.49     2.26
+AAR-12980    061664_3    Iceland       730     1581       40     1641       26     < 5       -60     47.7     1.85     2.12
+AAR-12981    061664_4    Iceland       760     1562       33     1627       26     < 5       -65     42.0      2.2     2.56
+AAR-12982    061664_5    Iceland       795     1704       28     1583       25     < 5       121     37.5     2.36     2.13
+AAR-12983    061664_6    Iceland       830     1632       27     1555       26     < 5        77     37.5     2.17     2.58
+AAR-12984    061664_7    Iceland       870     1531       28     1534       26     < 5        -3     38.2     2.16     2.44
+AAR-12985    061664_8    Iceland       910     1540       29     1485       26     < 5        55     38.9      2.5     2.44
+AAR-12986    061664_9    Iceland       920     1484       28     1475       26     < 5         9     38.2      2.4     2.01
+AAR-12987   061664_10    Iceland       940     1498       31     1471       27       10       27     41.1     2.43     2.29
+AAR-12988     06312_1    Iceland       970     1542       28     1451       25     < 5        91     37.5     2.32     2.59
+AAR-11535      061664    Iceland       990     1421       50     1430       25       10       -9     55.9     2.48     2.42
+AAR-12989     06312_2    Iceland      1000     1526       41     1415       25     < 5       111     48.0     2.04     2.29
+AAR-12990     06312_3    Iceland      1025     1473       28     1388       25     < 5        85     37.5     1.94     2.58
+AAR-12991     06312_4    Iceland      1040     1482       26     1358       25     < 5       124     36.1     2.13     3.04
+AAR-12992     06312_5    Iceland      1080     1416       35     1301       25     < 5       115     43.0     2.23     2.35
+AAR-12993     06312_6    Iceland      1120     1410       27     1289       25     < 5       121     36.8     2.48     2.74
+AAR-12994     06312_7    Iceland      1170     1341       26     1248       25     < 5        93     36.1     2.56     2.76
+AAR-12995     06312_8    Iceland      1210     1307       36     1213       26       10       94     44.4     2.32     2.51
+AAR-11518      061312    Iceland      1216     1245       33     1207       25       10       38     41.4     1.87     2.43
+AAR-11536      061682    Iceland      1376     1067       35     1000       25       10       67     43.0     2.08     2.23
+AAR-11526      061436    Iceland      1378     1125       32     1000       25       10      125     40.6     2.07      2.9
+AAR-11528      061495    Iceland      1401     1137       32      976       25       10      161     40.6     2.32      2.2
+AAR-11524      061402    Iceland      1424     1002       29      935       25       10       67     38.3      1.7     2.54
+AAR-11522      061347    Iceland      1490      889       31      811       25       10       78     39.8     1.93     2.67
+AAR-11784      061294    Iceland      1505      951       27      790       24     < 5       161     36.1     2.68     2.29
+AAR-11521      061330    Iceland      1549      874       30      736       23       10      138     37.8     1.81     2.45
+AAR-11519      061315    Iceland      1569      863       45      723       23       10      140     50.5     1.93     2.21
+AAR-11537      061683    Iceland      1698      719       30      580       23       10      139     37.8     1.63     2.48
+AAR-11520      061323    Iceland      1784      617       37      534       23       10       83     43.6      1.7     2.66
+AAR-12999    061297_1    Iceland      1790      673       27      541       23     < 5       132     35.5     3.14     3.19
+AAR-11538      061702    Iceland      1810      644       31      527       23       10      117     38.6     2.34     2.85
+AAR-13000    061297_2    Iceland      1840      640       28      490       23     < 5       150     36.2     2.19     2.37
+AAR-13001    061297_3    Iceland      1855      661       27      483       23     < 5       178     35.5     1.76     2.59
+AAR-13002    061297_4    Iceland      1880      615       39      473       23       10      142     45.3     1.93      2.5
+AAR-11523      061364    Iceland      1895      455       29      460       23       10       -5     37.0     2.17     2.35
+AAR-12996     061257u    Iceland      1900      561       28      454       23     < 5       107     36.2     2.96     2.58
+AAR-13003    061297_5    Iceland      1915      648       34      448       23     < 5       200     41.0     1.86     1.65
+AAR-12282    061273-1    Iceland      1935      579       45      457       23     < 5       122     50.5     1.39     2.01
+AAR-12283    061273-2    Iceland      1945      558       23      464       23     < 5        94     32.5     2.18     2.23
+AAR-12284    061280-1    Iceland      1950      447       43      469       24     < 5       -22     49.2     2.05     2.36

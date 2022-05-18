@@ -1,0 +1,331 @@
+#  SE Greenland Shelf 2900 Year Diatom SST and Sea Ice Reconstructions
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 2.0
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/19682
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/reconstructions/miettinen2015/miettinen2015-sst.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+#
+# Parameter_Keywords: sea surface temperature reconstruction, sea ice reconstruction
+#--------------------
+# Contribution_Date
+#	Date:  2015-16-01
+#--------------------
+# Title
+#	Study_Name: SE Greenland Shelf 2900 Year Diatom SST and Sea Ice Reconstruction 
+#--------------------
+# Investigators
+#	Investigators:  Miettinen, A.; Divine D.; Husum, K.; Koç, N.; Jennings, A.E.
+#--------------------
+# Description_Notes_and_Keywords
+#	Description: A 2900-year-long diatom inferred August sea surface temperature reconstruction, at a temporal resolution of 3-8 years for 870-1910 CE and a at resolution of 40 years for 880 BCE-870 CE, 
+# from marine sediment core MD99-2322 from the SE Greenland shelf. An improved training set consisting of 184 surface sediment samples with 52 diatom species from the North Atlantic, 
+# the Labrador Sea, the Nordic Seas and Baffin Bay was utilized to convert downcore diatom counts to quantitative August SST using the weighted averaging partial least squares (WA-PLS) transfer function method.
+# The 2900-year-long diatom inferred reconstruction of April sea ice concentrations was also generated from marine sediment core MD99-2322. The reconstruction has a temporal resolution of 3-8 years for 870-1910 CE and a resolution of 40 years for 
+# 880 BCE-870 CE. The calibration set comprising 89 surface sediment samples from the northern North Atlantic, the Nordic Seas, Baffin Bay and northwestern Labrador Sea 
+# was created for a reconstruction method. For calibration we used modern satellite-based sea-ice concentrations from the sampling locations and the weighted averaging partial least squares (WA-PLS) transfer function method. 
+#
+# Keywords: sea surface temperature, sea ice, abrupt climate change, SE Greenland shelf, Medieval Climate Anomaly, Little Ice Age, last millennium
+#--------------------
+# Publication 
+#   Authors: Miettinen, A., D. Divine D., K. Husum, N. Koç, and A. Jennings
+#   Published_Date_or_Year: 2015
+#   Published_Title: Exceptional ocean surface conditions on the SE Greenland shelf during the Medieval Climate Anomaly
+#   Journal_Name: Paleoceanography
+#   Volume: 30
+#   Issue: 
+#   Pages: 1657-1674
+#   Report Number: 
+#   DOI: 10.1002/2015PA002849
+#   Full_Citation: 
+#   Abstract: Diatom inferred 2900-year-long records of August sea surface temperature (aSST) and April sea-ice concentration (aSIC) are generated from a marine sediment core from the SE Greenland shelf with a special focus 
+#	on the interval ca. 870–1910 Common Era (CE) reconstructed in subdecadal temporal resolution.The Medieval Climate Anomaly (MCA) between 1000 and 1200 CE represents the warmest ocean surface conditions of the SE Greenland shelf 
+#	over the late Holocene (880 BCE–1910 CE). It was characterized by abrupt, decadal to multidecadal changes, such as an abrupt warming of ~2.4°C in 55 years around 1000 CE. Temperature changes of these magnitudes are rare on 
+#	the North Atlantic proxy data. Compared to regional air temperature reconstructions, our results indicate a lag of about 50 years in ocean surface warming either due to increased freshwater discharge from the Greenland ice sheet 
+#	or intensified sea-ice export from the Arctic as a response to atmospheric warming at the beginning of the MCA. A cool phase, from 1200–1890 CE, associated with the Little Ice Age (LIA), ends with the rapid warming of aSST and 
+#	diminished aSIC in the early 20th century.The results show that the periods of warm aSST and aSIC minima are coupled with the solar minima suggesting that solar forcing possibly amplified by atmospheric forcing have been behind 
+#	the variability of surface conditions on the SE Greenland over the last millennium. The results indicate that the SE Greenland shelf is a climatologically sensitive area where extremely rapid changes are possible and highlights 
+#	the importance of the area under the present warming conditions.
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Research Council of Norway
+#    Grant:
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: University of Tromsø
+#    Grant:
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Norwegian Polar Institute
+#    Grant:
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: The Kone Foundation 
+#    Grant: 
+#------------------
+# Site_Information 
+#	Site_Name: Kangerlussuaq trough 
+#	Location: North Atlantic Ocean
+#   Northernmost_Latitude: 67.136333
+#   Southernmost_Latitude: 67.136333
+#   Easternmost_Longitude: -30.827833
+#   Westernmost_Longitude: -30.827833
+# 	Elevation: -714
+#------------------
+# Data_Collection
+# Collection_Name: Kanger SST Miettinen15
+#   First_Year: -876
+#   Last_Year: 1910
+#   Time_Unit: years AD
+#   Core_Length: 
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+#   Chronology:  1. AMS radiocarbon measurements for core MD99-2322, including depth-correlated dates from core MD99-2269 (via synchronication of paleomagnetic secular variations for the cores) 
+#		
+# Column 1: Core name					
+# Column 2: Central depth, cm 					
+# Column 3: Laboratory number 					
+# Column 4: Material dated					
+# Column 5: 14C age BP ± standard deviation 					
+# Column 6: Median Calibrated Calendar age, year C.E.					
+#					
+# Core	Depth	Lab no		Material		14C age		Age C.E.
+# 2322	34	AA40050		Colus turgidulus	693±38		1649
+# 2322	101.5	AA49380		mixed forams		1267±44		1191
+# 2322	154.5			Settlement tephra	870
+# 2269	160	AA47785		Macoma sp.		1693±42		765
+# 2269	187	AA57895		cf. Yoldia glacialis	1978±35		427
+# 2269	227	AA54590		cf. Macoma balthica	2396±47		-30
+# 2322	232.5	CURL-15479	Mixed benthic forams	2415±20		-85
+# 2269	258	AA38586		Yoldia cf. myalis	2578±48		-326
+# 2269	310	AA57896		Yoldia sp		3017±39		-828
+# 2269	360	AA54592		Mixed benthic forams	3375±80		-1303
+# 2322	368	AA49382		bivalve			3451±39		-1380
+# 2269	415	AA57897b	Arca glacialis		3840±33		-1822
+#
+#----------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## age_AD	age,,,calendar years AD,,,,,N
+## sst-aug.DTF	sea surface temperature,diatoms,,degrees Celsius,Aug,climate reconstructions,,partial least squares transfer function,N
+#--------------------------------------------
+# Data
+# Missing Value: NA
+age_AD	sst-aug
+1910	5.7
+1906	6.2
+1902	5.4
+1898	5.9
+1894	5.3
+1890	5.3
+1886	5.3
+1882	5.3
+1878	5.1
+1874	4.9
+1870	5.0
+1866	4.8
+1862	5.3
+1859	5.0
+1855	5.2
+1851	4.6
+1847	5.0
+1843	5.3
+1839	5.3
+1835	5.7
+1831	5.2
+1827	5.4
+1823	5.7
+1819	5.5
+1815	6.0
+1811	6.1
+1807	5.9
+1803	6.1
+1800	5.5
+1796	6.0
+1792	5.8
+1788	5.4
+1784	5.6
+1780	5.4
+1776	5.7
+1772	6.3
+1768	6.0
+1764	6.2
+1760	5.8
+1756	5.4
+1752	4.9
+1748	4.9
+1741	5.8
+1733	5.8
+1725	5.9
+1717	5.6
+1709	5.5
+1701	5.9
+1693	5.8
+1686	5.9
+1670	6.5
+1662	6.3
+1654	5.6
+1640	5.5
+1633	5.9
+1626	6.4
+1619	5.4
+1613	5.6
+1606	5.3
+1599	5.3
+1592	5.7
+1586	5.2
+1579	5.5
+1572	5.9
+1565	5.1
+1559	5.5
+1552	5.2
+1545	5.7
+1538	5.6
+1532	4.7
+1525	5.7
+1518	5.0
+1512	5.6
+1505	5.8
+1498	5.4
+1491	6.2
+1484	5.0
+1478	5.6
+1471	5.6
+1464	4.9
+1458	6.2
+1451	5.5
+1444	5.8
+1437	5.4
+1431	5.0
+1424	5.8
+1417	5.3
+1410	5.6
+1404	5.4
+1397	5.0
+1390	5.9
+1383	5.2
+1377	5.6
+1370	5.3
+1363	5.3
+1356	5.8
+1350	4.9
+1343	5.8
+1336	5.3
+1329	5.2
+1323	5.6
+1316	5.4
+1309	5.9
+1302	5.4
+1296	5.6
+1289	5.7
+1282	5.2
+1275	5.7
+1269	5.6
+1262	5.6
+1255	5.2
+1249	5.3
+1242	5.4
+1235	5.4
+1228	5.1
+1222	5.2
+1215	4.9
+1208	5.4
+1195	5.3
+1188	5.5
+1182	6.0
+1176	6.4
+1170	5.9
+1164	6.5
+1158	5.9
+1152	5.7
+1146	5.8
+1140	5.5
+1134	5.4
+1128	5.9
+1122	5.8
+1116	5.5
+1109	5.2
+1097	5.6
+1091	5.9
+1085	6.5
+1079	7.2
+1073	6.5
+1067	6.1
+1061	5.8
+1055	5.8
+1049	7.2
+1037	6.9
+1031	6.6
+1025	5.9
+1019	5.9
+1013	6.2
+1006	5.7
+1000	5.9
+994	4.8
+988	5.4
+982	5.1
+976	5.0
+964	4.8
+958	4.6
+952	4.8
+946	5.3
+940	5.0
+934	5.2
+928	5.0
+922	4.5
+916	4.9
+903	5.3
+897	5.1
+891	4.7
+885	5.1
+879	4.8
+873	4.9
+803	6.0
+739	5.6
+690	6.1
+640	5.0
+591	4.7
+541	5.0
+491	5.1
+395	4.4
+349	4.0
+304	5.6
+258	5.1
+246	5.2
+120	5.1
+75	4.7
+6	4.5
+-144	4.5
+-182	4.4
+-219	4.6
+-256	4.8
+-293	5.4
+-331	4.0
+-370	4.4
+-409	4.5
+-448	5.4
+-487	4.9
+-526	5.3
+-565	5.7
+-604	5.1
+-644	5.2
+-683	5.7
+-721	5.6
+-761	5.1
+-800	5.2
+-839	6.0
+-876	6.7
+
