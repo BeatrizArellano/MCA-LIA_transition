@@ -38,47 +38,45 @@ def significance_rob(ts,max_wL=100,max_bW=80,n=1000, res=5, trend='positive'):
     pval_ar1 = np.full([len(bW_vs),len(wL_vs)],np.nan)
     pval_var = np.full([len(bW_vs),len(wL_vs)],np.nan)
     for i,b in enumerate(bW_vs):
-        for j,w in enumerate(wL_vs):
-            kcb_ar1 = ts.bootstrap(detrend=True, method='ar1',bW=b, wL=w,n=n)
-            kcb_var = ts.bootstrap(detrend=True, method='var',bW=b, wL=w,n=n)
-            ar1_ts = ts.ar1(detrend = True, bW=b,wL=w)
-            var_ts= ts.var(detrend = True, bW=b,wL=w)
-            if trend=='positive':
-                pval_ar1[i][j] = len(kcb_ar1[kcb_ar1>=ar1_ts.kendall])/len(kcb_ar1)
-                pval_var[i][j] = len(kcb_var[kcb_var>=var_ts.kendall])/len(kcb_var)
-            else:
-                pval_ar1[i][j] = len(kcb_ar1[kcb_ar1<=ar1_ts.kendall])/len(kcb_ar1)
-                pval_var[i][j] = len(kcb_var[kcb_var<=var_ts.kendall])/len(kcb_var)
+        for j,w in enumerate(wL_vs): 
+            print('AR(1)')
+            sig_test_ar1 = ts.significance(indicator='ar1',n=n, detrend=True,bW=b, wL=w,test=trend)
+            print('Variance')
+            sig_test_var = ts.significance(indicator='var',n=n, detrend=True,bW=b, wL=w,test=trend)
+            pval_ar1[i][j] = sig_test_ar1.pvalue
+            pval_var[i][j] = sig_test_var.pvalue
     return bW_vs, wL_vs, pval_ar1, pval_var
 
 ## The records are publicly available at https://www.ncei.noaa.gov/access/paleo-search/
 rec_ids = {'GI':'NIS_PB_RCSars','d18O':'NIS_DR_d18O','d13C':'NIS_DR_d13C'}
-datasets={}
 data_path = 'data/bivalve_rec/'
 md = pd.read_csv(data_path+'chronologies_metadata.csv',index_col=0) ## Records metadata 
+series = []
 for chron,rec_id in rec_ids.items():    
     df = pd.read_csv(data_path+md.loc[rec_id].file, comment='#', sep='\t', index_col=0) ## Reads the data-file for each record
     ts = df[md.loc[rec_id]['column_name']]
     ts.rename(chron,inplace=True)
     ts.index = ts.index.astype(int)
     ts.index.name = 'year_ce'
-    datasets[chron] = ews.Ews(ts.dropna())
-
+    series.append(ts.dropna())
+records = pd.concat(series,axis=1,join='outer') ## Merges the series in a dataframe
+records = ews.Ews(records[records.index>999]) ## Filters out the data prior to the year 1000 CE
 
 
 ## Episodes
 episodes = {'1':[1110,1260,'positive'],
-            'int':[1190,1330,'negative'],
+            #'int':[1190,1330,'negative'],
             '2':[1260,1380,'positive']}
 
 model_size = 2000
 
 #just_gi = {'GI':datasets['GI']}
 for ep,years in episodes.items():
-    for rec,ds in datasets.items():
-#    for rec,ds in just_gi.items():
-        print(ep,rec)
-        ts = ews.Ews(ds[(ds.index>=years[0])&(ds.index<=years[1])])
+    print(ep)
+    df_ep = records[(records.index>=years[0])&(records.index<=years[1])] # Selects the correspondent interval in each record
+    for rec in rec_ids.keys():
+        print(rec)
+        ts = ews.Ews(df_ep[rec])
         bW_vs, wL_vs, par1, pvar = significance_rob(ts,max_wL=100,max_bW=80,n=model_size,trend=years[2])
         np.save('data/signif-tests/bW_vs.npy', bW_vs)
         np.save('data/signif-tests/wL_vs.npy', wL_vs)
