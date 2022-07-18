@@ -11,3 +11,5 @@ The analyses can be found in these notebooks:
 The bivalve-derived records are publicly available on the [NOAA National Centers for Environmental Information site](https://www.ncei.noaa.gov/access/paleo-search/). They can also be found in the [data folder](data/bivalve_rec).
 
 Most environmental reconstructions are open and were compiled either from the [NOAA](https://www.ncei.noaa.gov/access/paleo-search/) or the [PANGAEA](https://pangaea.de/) websites. The compilation with the public data can be found in the [data folder](data/env_reconstructions). 
+
+The Python modules (`ews`) used to assess changes in resilience, significance and robustness can be found in [this repository](https://github.com/BeatrizArellano/regimeshifts).
